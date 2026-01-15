@@ -1,0 +1,26 @@
+{
+    "generated_at": "2026-01-14T21:16:50.998706",
+    "kpis": {
+        "total_orders": 10,
+        "on_time_rate": 50.0,
+        "fill_rate": 90.91,
+        "avg_lead_time_days": 7.1,
+        "avg_delivery_cost": 1450.0
+    },
+    "bottleneck": {
+        "bottleneck_stage": "Transport",
+        "stage_variances": {
+            "Warehouse": 1.4333333333333333,
+            "Transport": 1.788888888888889,
+            "Last Mile": 0.2777777777777778
+        }
+    },
+    "risk_overview": {
+        "high_risk_orders": 2,
+        "low_risk_orders": 8,
+        "avg_efficiency_score": 37.67
+    },
+    "notes": {
+        "interpretation": "On-time rate from Delivery_Status column. Fill rate approximated from Demand vs Inventory_Level. High risk = delay > 2 days AND insufficient inventory."
+    }
+}

@@ -1,0 +1,13 @@
+RESTAURANT ORDER PATTERN ANALYSIS
+
+Records Analysed: 1000
+Best Selling Food: Burger
+Highest Revenue Item: Paneer Tikka
+Peak Ordering Hour: 18:00
+Total Revenue: Rs. 285110.00
+Average Revenue Per Record: Rs. 285.11
+Top Customer: C108
+Top Customer Spending: Rs. 32260.00
+Most Popular Category: Fast Food
+Most Used Payment Method: UPI
+Most Active Day: Saturday

@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Food_Item,Category,Quantity,Price,Order_Date,Order_Hour,Payment_Method,Revenue,Day,Month,Time_Period
+1,C108,Sandwich,Fast Food,3,110,2026-06-29,22,UPI,330,Monday,June,Night
+2,C107,Noodles,Chinese,3,150,2026-04-13,19,Card,450,Monday,April,Evening
+3,C106,Ice Cream,Dessert,3,100,2026-03-29,14,UPI,300,Sunday,March,Afternoon
+4,C106,Pizza,Fast Food,2,250,2026-03-29,21,Cash,500,Sunday,March,Evening
+5,C106,Paneer Tikka,Indian,2,210,2026-01-21,10,UPI,420,Wednesday,January,Morning
+6,C110,Paneer Tikka,Indian,3,210,2026-03-30,10,Card,630,Monday,March,Morning
+7,C103,Biryani,Indian,1,220,2026-04-18,16,UPI,220,Saturday,April,Afternoon
+8,C107,Biryani,Indian,1,220,2026-05-15,14,Cash,220,Friday,May,Afternoon
+9,C102,Pasta,Italian,2,180,2026-03-30,21,Cash,360,Monday,March,Evening
+10,C104,Coffee,Beverage,2,80,2026-03-31,14,Card,160,Tuesday,March,Afternoon
+11,C103,Paneer Tikka,Indian,3,210,2026-06-21,22,Cash,630,Sunday,June,Night
+12,C106,Burger,Fast Food,2,120,2026-06-13,11,Cash,240,Saturday,June,Morning
+13,C102,Cold Drink,Beverage,1,60,2026-01-04,15,Cash,60,Sunday,January,Afternoon
+14,C104,Paneer Tikka,Indian,2,210,2026-06-11,19,Cash,420,Thursday,June,Evening
+15,C102,Manchurian,Chinese,1,160,2026-02-09,14,Card,160,Monday,February,Afternoon
+16,C109,Noodles,Chinese,1,150,2026-01-24,19,UPI,150,Saturday,January,Evening
+17,C108,Burger,Fast Food,1,120,2026-03-30,16,UPI,120,Monday,March,Afternoon
+18,C103,Paneer Tikka,Indian,3,210,2026-05-16,17,UPI,630,Saturday,May,Afternoon
+19,C105,Manchurian,Chinese,1,160,2026-06-12,12,Cash,160,Friday,June,Morning
+20,C109,Sandwich,Fast Food,3,110,2026-02-10,21,Cash,330,Tuesday,February,Evening
+21,C108,Burger,Fast Food,3,120,2026-02-17,16,UPI,360,Tuesday,February,Afternoon
+22,C103,Biryani,Indian,2,220,2026-06-21,17,UPI,440,Sunday,June,Afternoon
+23,C105,Biryani,Indian,1,220,2026-04-11,12,Cash,220,Saturday,April,Morning
+24,C109,Sandwich,Fast Food,3,110,2026-05-22,16,Card,330,Friday,May,Afternoon
+25,C103,Cold Drink,Beverage,1,60,2026-02-11,21,Card,60,Wednesday,February,Evening
+26,C105,Sandwich,Fast Food,2,110,2026-02-21,22,Card,220,Saturday,February,Night
+27,C104,Sandwich,Fast Food,1,110,2026-05-23,20,UPI,110,Saturday,May,Evening
+28,C110,Sandwich,Fast Food,2,110,2026-03-27,21,UPI,220,Friday,March,Evening
+29,C110,Coffee,Beverage,2,80,2026-05-14,21,Card,160,Thursday,May,Evening
+30,C109,Paneer Tikka,Indian,3,210,2026-05-09,18,UPI,630,Saturday,May,Evening
+31,C108,Coffee,Beverage,2,80,2026-01-03,16,Card,160,Saturday,January,Afternoon
+32,C103,Coffee,Beverage,1,80,2026-03-03,14,Cash,80,Tuesday,March,Afternoon
+33,C108,Paneer Tikka,Indian,2,210,2026-06-01,20,UPI,420,Monday,June,Evening
+34,C104,Pasta,Italian,2,180,2026-04-23,10,Cash,360,Thursday,April,Morning
+35,C105,Sandwich,Fast Food,1,110,2026-05-10,12,UPI,110,Sunday,May,Morning
+36,C102,Manchurian,Chinese,1,160,2026-03-22,20,Cash,160,Sunday,March,Evening
+37,C101,Paneer Tikka,Indian,1,210,2026-02-23,16,UPI,210,Monday,February,Afternoon
+38,C110,Biryani,Indian,1,220,2026-05-06,11,Cash,220,Wednesday,May,Morning
+39,C108,Sandwich,Fast Food,3,110,2026-03-09,16,Card,330,Monday,March,Afternoon
+40,C104,Burger,Fast Food,1,120,2026-02-07,17,Cash,120,Saturday,February,Afternoon
+41,C106,French Fries,Fast Food,1,90,2026-05-19,10,UPI,90,Tuesday,May,Morning
+42,C104,Biryani,Indian,3,220,2026-05-28,21,Card,660,Thursday,May,Evening
+43,C104,Cold Drink,Beverage,3,60,2026-05-27,13,UPI,180,Wednesday,May,Afternoon
+44,C108,Burger,Fast Food,2,120,2026-06-17,16,UPI,240,Wednesday,June,Afternoon
+45,C110,Ice Cream,Dessert,3,100,2026-06-27,16,Card,300,Saturday,June,Afternoon
+46,C104,Sandwich,Fast Food,1,110,2026-05-24,19,UPI,110,Sunday,May,Evening
+47,C105,Pizza,Fast Food,1,250,2026-05-09,21,Card,250,Saturday,May,Evening
+48,C103,Sandwich,Fast Food,3,110,2026-01-09,18,Card,330,Friday,January,Evening
+49,C108,Pasta,Italian,1,180,2026-06-01,15,Card,180,Monday,June,Afternoon
+50,C103,Burger,Fast Food,2,120,2026-06-13,15,Cash,240,Saturday,June,Afternoon
+51,C102,Coffee,Beverage,1,80,2026-04-09,18,Cash,80,Thursday,April,Evening
+52,C109,Pizza,Fast Food,1,250,2026-02-23,12,UPI,250,Monday,February,Morning
+53,C103,Pasta,Italian,3,180,2026-02-02,14,UPI,540,Monday,February,Afternoon
+54,C103,Burger,Fast Food,3,120,2026-06-25,21,Cash,360,Thursday,June,Evening
+55,C103,Sandwich,Fast Food,2,110,2026-01-22,15,Cash,220,Thursday,January,Afternoon
+56,C105,Manchurian,Chinese,2,160,2026-01-27,20,Cash,320,Tuesday,January,Evening
+57,C103,Burger,Fast Food,1,120,2026-01-28,10,Card,120,Wednesday,January,Morning
+58,C105,Burger,Fast Food,2,120,2026-01-17,21,Cash,240,Saturday,January,Evening
+59,C108,Biryani,Indian,1,220,2026-05-04,18,UPI,220,Monday,May,Evening
+60,C103,Burger,Fast Food,3,120,2026-02-15,14,UPI,360,Sunday,February,Afternoon
+61,C103,Pasta,Italian,1,180,2026-06-09,16,Cash,180,Tuesday,June,Afternoon
+62,C108,Coffee,Beverage,3,80,2026-02-23,19,Cash,240,Monday,February,Evening
+63,C102,Manchurian,Chinese,3,160,2026-04-24,15,Card,480,Friday,April,Afternoon
+64,C108,Ice Cream,Dessert,1,100,2026-05-10,19,UPI,100,Sunday,May,Evening
+65,C110,Coffee,Beverage,3,80,2026-02-12,15,Card,240,Thursday,February,Afternoon
+66,C108,Cold Drink,Beverage,1,60,2026-04-09,11,UPI,60,Thursday,April,Morning
+67,C104,Paneer Tikka,Indian,1,210,2026-05-15,18,UPI,210,Friday,May,Evening
+68,C107,Manchurian,Chinese,3,160,2026-05-24,21,Card,480,Sunday,May,Evening
+69,C106,Paneer Tikka,Indian,3,210,2026-04-08,11,Card,630,Wednesday,April,Morning
+70,C110,Coffee,Beverage,2,80,2026-03-04,22,Cash,160,Wednesday,March,Night
+71,C106,French Fries,Fast Food,2,90,2026-02-18,13,Card,180,Wednesday,February,Afternoon
+72,C105,French Fries,Fast Food,1,90,2026-04-11,10,Card,90,Saturday,April,Morning
+73,C103,Pasta,Italian,2,180,2026-01-06,22,Card,360,Tuesday,January,Night
+74,C110,Manchurian,Chinese,2,160,2026-02-21,22,Cash,320,Saturday,February,Night
+75,C103,Biryani,Indian,3,220,2026-05-25,17,Cash,660,Monday,May,Afternoon
+76,C105,Sandwich,Fast Food,2,110,2026-03-31,14,Cash,220,Tuesday,March,Afternoon
+77,C101,Sandwich,Fast Food,1,110,2026-05-07,18,Cash,110,Thursday,May,Evening
+78,C106,Cold Drink,Beverage,2,60,2026-01-01,11,UPI,120,Thursday,January,Morning
+79,C107,Manchurian,Chinese,1,160,2026-04-27,10,Card,160,Monday,April,Morning
+80,C103,Noodles,Chinese,3,150,2026-01-22,22,Cash,450,Thursday,January,Night
+81,C105,Biryani,Indian,1,220,2026-03-27,18,Card,220,Friday,March,Evening
+82,C110,Burger,Fast Food,1,120,2026-04-04,13,Cash,120,Saturday,April,Afternoon
+83,C105,Noodles,Chinese,1,150,2026-02-08,13,Card,150,Sunday,February,Afternoon
+84,C104,Cold Drink,Beverage,1,60,2026-01-10,15,Cash,60,Saturday,January,Afternoon
+85,C110,Pasta,Italian,3,180,2026-05-18,19,UPI,540,Monday,May,Evening
+86,C102,Manchurian,Chinese,3,160,2026-03-10,22,UPI,480,Tuesday,March,Night
+87,C103,Paneer Tikka,Indian,2,210,2026-05-08,20,UPI,420,Friday,May,Evening
+88,C103,Burger,Fast Food,1,120,2026-06-28,20,UPI,120,Sunday,June,Evening
+89,C102,Burger,Fast Food,3,120,2026-06-17,19,UPI,360,Wednesday,June,Evening
+90,C110,Biryani,Indian,1,220,2026-02-04,16,UPI,220,Wednesday,February,Afternoon
+91,C109,Cold Drink,Beverage,3,60,2026-03-31,11,Card,180,Tuesday,March,Morning
+92,C108,Pasta,Italian,2,180,2026-02-27,14,UPI,360,Friday,February,Afternoon
+93,C109,Noodles,Chinese,1,150,2026-06-13,19,Card,150,Saturday,June,Evening
+94,C101,Burger,Fast Food,2,120,2026-04-09,13,Card,240,Thursday,April,Afternoon
+95,C107,Manchurian,Chinese,1,160,2026-05-31,14,UPI,160,Sunday,May,Afternoon
+96,C101,Sandwich,Fast Food,2,110,2026-04-09,18,UPI,220,Thursday,April,Evening
+97,C103,Pasta,Italian,2,180,2026-04-22,18,UPI,360,Wednesday,April,Evening
+98,C103,Pasta,Italian,1,180,2026-05-20,22,UPI,180,Wednesday,May,Night
+99,C110,Sandwich,Fast Food,3,110,2026-01-28,13,Card,330,Wednesday,January,Afternoon
+100,C104,Noodles,Chinese,1,150,2026-03-10,12,Card,150,Tuesday,March,Morning
+101,C107,Noodles,Chinese,1,150,2026-02-22,16,UPI,150,Sunday,February,Afternoon
+102,C110,Noodles,Chinese,3,150,2026-02-11,19,UPI,450,Wednesday,February,Evening
+103,C109,Biryani,Indian,3,220,2026-03-16,11,Cash,660,Monday,March,Morning
+104,C107,Cold Drink,Beverage,2,60,2026-05-25,22,Cash,120,Monday,May,Night
+105,C110,Manchurian,Chinese,2,160,2026-06-19,18,Cash,320,Friday,June,Evening
+106,C103,Noodles,Chinese,2,150,2026-01-29,14,UPI,300,Thursday,January,Afternoon
+107,C107,Burger,Fast Food,1,120,2026-03-27,13,UPI,120,Friday,March,Afternoon
+108,C103,Pasta,Italian,3,180,2026-02-05,15,UPI,540,Thursday,February,Afternoon
+109,C110,Paneer Tikka,Indian,2,210,2026-06-16,20,Card,420,Tuesday,June,Evening
+110,C102,Sandwich,Fast Food,1,110,2026-05-06,12,Cash,110,Wednesday,May,Morning
+111,C109,Cold Drink,Beverage,1,60,2026-05-28,21,Card,60,Thursday,May,Evening
+112,C109,Burger,Fast Food,2,120,2026-05-11,22,Card,240,Monday,May,Night
+113,C106,Paneer Tikka,Indian,1,210,2026-04-23,18,UPI,210,Thursday,April,Evening
+114,C105,French Fries,Fast Food,1,90,2026-02-27,21,Cash,90,Friday,February,Evening
+115,C104,Noodles,Chinese,3,150,2026-06-13,12,UPI,450,Saturday,June,Morning
+116,C101,Pizza,Fast Food,1,250,2026-02-16,18,UPI,250,Monday,February,Evening
+117,C109,French Fries,Fast Food,3,90,2026-04-28,12,Card,270,Tuesday,April,Morning
+118,C108,Paneer Tikka,Indian,2,210,2026-03-15,17,UPI,420,Sunday,March,Afternoon
+119,C108,Manchurian,Chinese,2,160,2026-05-02,21,Cash,320,Saturday,May,Evening
+120,C109,Paneer Tikka,Indian,1,210,2026-06-27,21,Card,210,Saturday,June,Evening
+121,C105,French Fries,Fast Food,1,90,2026-05-25,18,UPI,90,Monday,May,Evening
+122,C103,Paneer Tikka,Indian,2,210,2026-06-06,22,UPI,420,Saturday,June,Night
+123,C109,French Fries,Fast Food,1,90,2026-03-23,12,Cash,90,Monday,March,Morning
+124,C105,Cold Drink,Beverage,3,60,2026-02-25,11,Card,180,Wednesday,February,Morning
+125,C102,Manchurian,Chinese,1,160,2026-02-02,15,Card,160,Monday,February,Afternoon
+126,C109,Burger,Fast Food,2,120,2026-01-11,14,Cash,240,Sunday,January,Afternoon
+127,C101,Ice Cream,Dessert,1,100,2026-01-27,10,Cash,100,Tuesday,January,Morning
+128,C107,Coffee,Beverage,1,80,2026-04-09,10,Cash,80,Thursday,April,Morning
+129,C103,Paneer Tikka,Indian,2,210,2026-04-05,14,UPI,420,Sunday,April,Afternoon
+130,C110,Sandwich,Fast Food,2,110,2026-02-22,14,Card,220,Sunday,February,Afternoon
+131,C101,Burger,Fast Food,2,120,2026-03-26,18,Card,240,Thursday,March,Evening
+132,C108,Pasta,Italian,2,180,2026-04-23,17,Card,360,Thursday,April,Afternoon
+133,C103,Cold Drink,Beverage,2,60,2026-06-11,15,Card,120,Thursday,June,Afternoon
+134,C105,Pizza,Fast Food,2,250,2026-01-12,10,Cash,500,Monday,January,Morning
+135,C107,Ice Cream,Dessert,3,100,2026-02-26,10,Card,300,Thursday,February,Morning
+136,C103,Noodles,Chinese,3,150,2026-03-26,11,Card,450,Thursday,March,Morning
+137,C102,French Fries,Fast Food,2,90,2026-02-07,11,Cash,180,Saturday,February,Morning
+138,C106,Ice Cream,Dessert,1,100,2026-06-28,11,UPI,100,Sunday,June,Morning
+139,C107,Manchurian,Chinese,2,160,2026-03-20,21,Cash,320,Friday,March,Evening
+140,C104,Biryani,Indian,1,220,2026-03-22,14,Cash,220,Sunday,March,Afternoon
+141,C104,Manchurian,Chinese,1,160,2026-05-25,19,UPI,160,Monday,May,Evening
+142,C103,Pizza,Fast Food,2,250,2026-01-06,14,Card,500,Tuesday,January,Afternoon
+143,C106,Coffee,Beverage,3,80,2026-05-31,16,UPI,240,Sunday,May,Afternoon
+144,C102,Biryani,Indian,3,220,2026-04-06,12,UPI,660,Monday,April,Morning
+145,C105,Cold Drink,Beverage,1,60,2026-02-20,12,Cash,60,Friday,February,Morning
+146,C105,Paneer Tikka,Indian,2,210,2026-06-19,22,Cash,420,Friday,June,Night
+147,C102,Burger,Fast Food,2,120,2026-05-13,18,UPI,240,Wednesday,May,Evening
+148,C110,Cold Drink,Beverage,1,60,2026-02-14,20,UPI,60,Saturday,February,Evening
+149,C101,Coffee,Beverage,3,80,2026-02-25,20,Cash,240,Wednesday,February,Evening
+150,C103,Pasta,Italian,1,180,2026-01-01,17,UPI,180,Thursday,January,Afternoon
+151,C110,Pasta,Italian,2,180,2026-02-16,17,Card,360,Monday,February,Afternoon
+152,C108,Manchurian,Chinese,2,160,2026-05-10,22,Card,320,Sunday,May,Night
+153,C102,Sandwich,Fast Food,2,110,2026-01-03,16,Cash,220,Saturday,January,Afternoon
+154,C105,French Fries,Fast Food,3,90,2026-04-25,18,Cash,270,Saturday,April,Evening
+155,C110,Sandwich,Fast Food,2,110,2026-01-17,16,Cash,220,Saturday,January,Afternoon
+156,C104,Paneer Tikka,Indian,1,210,2026-01-25,10,UPI,210,Sunday,January,Morning
+157,C102,Pasta,Italian,1,180,2026-05-18,12,Card,180,Monday,May,Morning
+158,C108,Pasta,Italian,2,180,2026-04-21,15,UPI,360,Tuesday,April,Afternoon
+159,C105,Paneer Tikka,Indian,1,210,2026-03-24,19,Cash,210,Tuesday,March,Evening
+160,C108,Pasta,Italian,3,180,2026-01-26,11,Card,540,Monday,January,Morning
+161,C106,French Fries,Fast Food,1,90,2026-05-01,10,UPI,90,Friday,May,Morning
+162,C108,French Fries,Fast Food,2,90,2026-03-11,16,Card,180,Wednesday,March,Afternoon
+163,C108,Coffee,Beverage,3,80,2026-05-11,12,UPI,240,Monday,May,Morning
+164,C104,Pasta,Italian,2,180,2026-06-01,15,Card,360,Monday,June,Afternoon
+165,C101,Pasta,Italian,2,180,2026-03-20,15,Cash,360,Friday,March,Afternoon
+166,C108,Manchurian,Chinese,2,160,2026-06-28,18,Cash,320,Sunday,June,Evening
+167,C106,Biryani,Indian,1,220,2026-06-22,21,Cash,220,Monday,June,Evening
+168,C104,French Fries,Fast Food,1,90,2026-03-09,12,UPI,90,Monday,March,Morning
+169,C106,Paneer Tikka,Indian,2,210,2026-02-16,10,UPI,420,Monday,February,Morning
+170,C103,Ice Cream,Dessert,3,100,2026-04-10,22,UPI,300,Friday,April,Night
+171,C105,French Fries,Fast Food,2,90,2026-06-27,17,Card,180,Saturday,June,Afternoon
+172,C108,Cold Drink,Beverage,1,60,2026-06-21,11,Cash,60,Sunday,June,Morning
+173,C101,Pasta,Italian,1,180,2026-03-06,14,UPI,180,Friday,March,Afternoon
+174,C107,Ice Cream,Dessert,2,100,2026-05-23,17,Card,200,Saturday,May,Afternoon
+175,C105,Burger,Fast Food,2,120,2026-03-10,21,Card,240,Tuesday,March,Evening
+176,C103,Coffee,Beverage,3,80,2026-06-11,21,UPI,240,Thursday,June,Evening
+177,C108,Manchurian,Chinese,1,160,2026-03-05,15,Card,160,Thursday,March,Afternoon
+178,C103,Coffee,Beverage,2,80,2026-01-14,21,UPI,160,Wednesday,January,Evening
+179,C110,Noodles,Chinese,3,150,2026-01-05,12,Cash,450,Monday,January,Morning
+180,C109,Pasta,Italian,2,180,2026-03-30,22,Cash,360,Monday,March,Night
+181,C103,Manchurian,Chinese,2,160,2026-03-13,16,UPI,320,Friday,March,Afternoon
+182,C101,French Fries,Fast Food,3,90,2026-04-07,16,UPI,270,Tuesday,April,Afternoon
+183,C107,Burger,Fast Food,3,120,2026-02-22,17,Card,360,Sunday,February,Afternoon
+184,C103,French Fries,Fast Food,3,90,2026-05-14,12,Cash,270,Thursday,May,Morning
+185,C104,Pasta,Italian,1,180,2026-01-15,22,Cash,180,Thursday,January,Night
+186,C106,Sandwich,Fast Food,1,110,2026-06-04,13,UPI,110,Thursday,June,Afternoon
+187,C104,Burger,Fast Food,1,120,2026-06-04,16,Cash,120,Thursday,June,Afternoon
+188,C110,Pizza,Fast Food,3,250,2026-01-10,14,UPI,750,Saturday,January,Afternoon
+189,C104,French Fries,Fast Food,3,90,2026-02-07,22,UPI,270,Saturday,February,Night
+190,C108,Manchurian,Chinese,3,160,2026-06-29,17,UPI,480,Monday,June,Afternoon
+191,C103,Pasta,Italian,2,180,2026-03-17,22,Card,360,Tuesday,March,Night
+192,C105,Pasta,Italian,3,180,2026-02-05,19,Card,540,Thursday,February,Evening
+193,C108,Cold Drink,Beverage,2,60,2026-04-14,15,Card,120,Tuesday,April,Afternoon
+194,C108,Cold Drink,Beverage,2,60,2026-02-15,20,Cash,120,Sunday,February,Evening
+195,C104,Pizza,Fast Food,3,250,2026-04-21,17,UPI,750,Tuesday,April,Afternoon
+196,C110,Manchurian,Chinese,3,160,2026-02-06,17,UPI,480,Friday,February,Afternoon
+197,C106,Paneer Tikka,Indian,1,210,2026-01-31,19,Card,210,Saturday,January,Evening
+198,C107,Manchurian,Chinese,3,160,2026-02-10,15,UPI,480,Tuesday,February,Afternoon
+199,C104,Noodles,Chinese,2,150,2026-05-29,19,Cash,300,Friday,May,Evening
+200,C106,Sandwich,Fast Food,3,110,2026-02-26,10,Card,330,Thursday,February,Morning
+201,C109,Biryani,Indian,3,220,2026-06-17,14,UPI,660,Wednesday,June,Afternoon
+202,C110,Coffee,Beverage,1,80,2026-06-29,18,UPI,80,Monday,June,Evening
+203,C110,Biryani,Indian,1,220,2026-03-04,13,Card,220,Wednesday,March,Afternoon
+204,C102,French Fries,Fast Food,2,90,2026-05-10,16,Card,180,Sunday,May,Afternoon
+205,C103,Burger,Fast Food,3,120,2026-05-08,20,Cash,360,Friday,May,Evening
+206,C105,Manchurian,Chinese,2,160,2026-01-25,16,UPI,320,Sunday,January,Afternoon
+207,C110,Burger,Fast Food,2,120,2026-01-29,20,Cash,240,Thursday,January,Evening
+208,C104,Noodles,Chinese,1,150,2026-02-18,16,UPI,150,Wednesday,February,Afternoon
+209,C108,Burger,Fast Food,2,120,2026-05-28,15,UPI,240,Thursday,May,Afternoon
+210,C107,Sandwich,Fast Food,2,110,2026-01-01,22,Card,220,Thursday,January,Night
+211,C108,Ice Cream,Dessert,1,100,2026-03-03,22,Card,100,Tuesday,March,Night
+212,C102,Pizza,Fast Food,3,250,2026-01-01,12,Cash,750,Thursday,January,Morning
+213,C106,French Fries,Fast Food,2,90,2026-04-23,11,Card,180,Thursday,April,Morning
+214,C107,Pasta,Italian,1,180,2026-05-09,17,Card,180,Saturday,May,Afternoon
+215,C103,Biryani,Indian,2,220,2026-02-01,19,Cash,440,Sunday,February,Evening
+216,C107,Pizza,Fast Food,3,250,2026-05-04,10,Cash,750,Monday,May,Morning
+217,C109,Sandwich,Fast Food,1,110,2026-04-03,17,Card,110,Friday,April,Afternoon
+218,C105,Biryani,Indian,1,220,2026-03-13,15,Card,220,Friday,March,Afternoon
+219,C108,Biryani,Indian,3,220,2026-04-07,21,Cash,660,Tuesday,April,Evening
+220,C108,Biryani,Indian,2,220,2026-04-06,17,Cash,440,Monday,April,Afternoon
+221,C106,Ice Cream,Dessert,1,100,2026-05-24,13,UPI,100,Sunday,May,Afternoon
+222,C110,Sandwich,Fast Food,3,110,2026-06-25,11,Card,330,Thursday,June,Morning
+223,C103,Burger,Fast Food,3,120,2026-05-31,14,UPI,360,Sunday,May,Afternoon
+224,C105,Paneer Tikka,Indian,1,210,2026-03-23,11,Card,210,Monday,March,Morning
+225,C107,Cold Drink,Beverage,3,60,2026-05-10,12,UPI,180,Sunday,May,Morning
+226,C105,Noodles,Chinese,2,150,2026-06-15,18,Card,300,Monday,June,Evening
+227,C110,Pasta,Italian,1,180,2026-03-27,21,Cash,180,Friday,March,Evening
+228,C102,Manchurian,Chinese,1,160,2026-02-28,16,Card,160,Saturday,February,Afternoon
+229,C109,Burger,Fast Food,2,120,2026-01-14,18,Card,240,Wednesday,January,Evening
+230,C104,Coffee,Beverage,2,80,2026-01-22,20,Cash,160,Thursday,January,Evening
+231,C107,Cold Drink,Beverage,2,60,2026-01-29,22,UPI,120,Thursday,January,Night
+232,C110,Ice Cream,Dessert,1,100,2026-03-11,11,UPI,100,Wednesday,March,Morning
+233,C109,French Fries,Fast Food,1,90,2026-02-03,10,Cash,90,Tuesday,February,Morning
+234,C110,Cold Drink,Beverage,1,60,2026-03-17,16,Cash,60,Tuesday,March,Afternoon
+235,C106,Noodles,Chinese,3,150,2026-01-27,18,Card,450,Tuesday,January,Evening
+236,C109,Manchurian,Chinese,1,160,2026-04-08,21,UPI,160,Wednesday,April,Evening
+237,C110,Sandwich,Fast Food,1,110,2026-05-18,22,UPI,110,Monday,May,Night
+238,C101,Paneer Tikka,Indian,2,210,2026-05-02,11,Card,420,Saturday,May,Morning
+239,C105,Noodles,Chinese,2,150,2026-02-05,12,Card,300,Thursday,February,Morning
+240,C107,Manchurian,Chinese,1,160,2026-01-11,13,Card,160,Sunday,January,Afternoon
+241,C108,French Fries,Fast Food,3,90,2026-04-08,16,Cash,270,Wednesday,April,Afternoon
+242,C110,French Fries,Fast Food,1,90,2026-03-10,17,Card,90,Tuesday,March,Afternoon
+243,C102,Pasta,Italian,1,180,2026-03-22,20,UPI,180,Sunday,March,Evening
+244,C101,Cold Drink,Beverage,1,60,2026-03-14,18,UPI,60,Saturday,March,Evening
+245,C107,Ice Cream,Dessert,1,100,2026-04-14,19,Card,100,Tuesday,April,Evening
+246,C106,Biryani,Indian,3,220,2026-04-18,21,Cash,660,Saturday,April,Evening
+247,C101,Paneer Tikka,Indian,3,210,2026-01-19,14,UPI,630,Monday,January,Afternoon
+248,C101,Burger,Fast Food,3,120,2026-03-15,18,Card,360,Sunday,March,Evening
+249,C108,Paneer Tikka,Indian,3,210,2026-03-03,17,Card,630,Tuesday,March,Afternoon
+250,C106,Noodles,Chinese,1,150,2026-03-22,16,Cash,150,Sunday,March,Afternoon
+251,C110,Manchurian,Chinese,1,160,2026-01-25,11,UPI,160,Sunday,January,Morning
+252,C101,Cold Drink,Beverage,3,60,2026-02-16,19,Card,180,Monday,February,Evening
+253,C105,Cold Drink,Beverage,3,60,2026-03-27,19,Card,180,Friday,March,Evening
+254,C107,Coffee,Beverage,2,80,2026-04-25,17,UPI,160,Saturday,April,Afternoon
+255,C102,Pizza,Fast Food,3,250,2026-04-26,16,Card,750,Sunday,April,Afternoon
+256,C108,Cold Drink,Beverage,2,60,2026-04-13,10,Card,120,Monday,April,Morning
+257,C105,Paneer Tikka,Indian,3,210,2026-02-14,11,Card,630,Saturday,February,Morning
+258,C108,Manchurian,Chinese,3,160,2026-04-18,16,UPI,480,Saturday,April,Afternoon
+259,C102,Pasta,Italian,1,180,2026-04-03,15,UPI,180,Friday,April,Afternoon
+260,C103,Cold Drink,Beverage,3,60,2026-04-18,11,Cash,180,Saturday,April,Morning
+261,C102,Pizza,Fast Food,3,250,2026-06-07,20,Card,750,Sunday,June,Evening
+262,C101,Ice Cream,Dessert,1,100,2026-02-08,13,UPI,100,Sunday,February,Afternoon
+263,C109,Noodles,Chinese,3,150,2026-01-16,17,Cash,450,Friday,January,Afternoon
+264,C101,Coffee,Beverage,1,80,2026-04-13,13,Cash,80,Monday,April,Afternoon
+265,C108,Burger,Fast Food,2,120,2026-01-03,22,Cash,240,Saturday,January,Night
+266,C105,Pizza,Fast Food,2,250,2026-03-09,11,UPI,500,Monday,March,Morning
+267,C108,Burger,Fast Food,1,120,2026-03-14,10,Card,120,Saturday,March,Morning
+268,C106,Cold Drink,Beverage,1,60,2026-02-06,22,Card,60,Friday,February,Night
+269,C102,Manchurian,Chinese,3,160,2026-03-04,17,UPI,480,Wednesday,March,Afternoon
+270,C108,Sandwich,Fast Food,3,110,2026-02-21,13,UPI,330,Saturday,February,Afternoon
+271,C110,French Fries,Fast Food,1,90,2026-04-27,12,Card,90,Monday,April,Morning
+272,C101,Pizza,Fast Food,1,250,2026-02-26,19,Cash,250,Thursday,February,Evening
+273,C105,Biryani,Indian,1,220,2026-04-30,15,Cash,220,Thursday,April,Afternoon
+274,C104,Sandwich,Fast Food,3,110,2026-06-26,18,Cash,330,Friday,June,Evening
+275,C103,Burger,Fast Food,2,120,2026-03-02,20,Cash,240,Monday,March,Evening
+276,C103,Pizza,Fast Food,3,250,2026-03-03,10,Cash,750,Tuesday,March,Morning
+277,C104,Manchurian,Chinese,1,160,2026-05-05,18,Cash,160,Tuesday,May,Evening
+278,C108,Noodles,Chinese,1,150,2026-04-08,20,Card,150,Wednesday,April,Evening
+279,C109,Ice Cream,Dessert,3,100,2026-01-29,18,Cash,300,Thursday,January,Evening
+280,C108,Paneer Tikka,Indian,3,210,2026-06-19,18,UPI,630,Friday,June,Evening
+281,C108,Noodles,Chinese,2,150,2026-05-19,20,Card,300,Tuesday,May,Evening
+282,C110,French Fries,Fast Food,1,90,2026-03-13,20,Cash,90,Friday,March,Evening
+283,C105,French Fries,Fast Food,1,90,2026-02-06,21,UPI,90,Friday,February,Evening
+284,C103,Burger,Fast Food,1,120,2026-04-24,17,Cash,120,Friday,April,Afternoon
+285,C108,Biryani,Indian,2,220,2026-02-25,17,Card,440,Wednesday,February,Afternoon
+286,C108,Burger,Fast Food,3,120,2026-01-06,17,UPI,360,Tuesday,January,Afternoon
+287,C109,Ice Cream,Dessert,1,100,2026-02-28,18,UPI,100,Saturday,February,Evening
+288,C107,Cold Drink,Beverage,2,60,2026-04-10,20,UPI,120,Friday,April,Evening
+289,C103,Ice Cream,Dessert,1,100,2026-02-14,19,Card,100,Saturday,February,Evening
+290,C105,Sandwich,Fast Food,3,110,2026-06-19,19,Cash,330,Friday,June,Evening
+291,C107,Sandwich,Fast Food,2,110,2026-06-08,11,Cash,220,Monday,June,Morning
+292,C108,Ice Cream,Dessert,1,100,2026-04-23,18,Card,100,Thursday,April,Evening
+293,C106,Pizza,Fast Food,3,250,2026-03-29,22,Card,750,Sunday,March,Night
+294,C105,Sandwich,Fast Food,2,110,2026-03-15,18,UPI,220,Sunday,March,Evening
+295,C104,French Fries,Fast Food,2,90,2026-05-28,13,Card,180,Thursday,May,Afternoon
+296,C110,Burger,Fast Food,1,120,2026-01-12,15,Cash,120,Monday,January,Afternoon
+297,C102,Burger,Fast Food,3,120,2026-01-22,19,Cash,360,Thursday,January,Evening
+298,C104,Paneer Tikka,Indian,3,210,2026-06-13,20,UPI,630,Saturday,June,Evening
+299,C101,Paneer Tikka,Indian,3,210,2026-01-07,22,Cash,630,Wednesday,January,Night
+300,C102,Biryani,Indian,2,220,2026-02-27,16,Cash,440,Friday,February,Afternoon
+301,C103,Pizza,Fast Food,1,250,2026-01-29,13,UPI,250,Thursday,January,Afternoon
+302,C104,Coffee,Beverage,1,80,2026-02-08,16,Cash,80,Sunday,February,Afternoon
+303,C103,Pasta,Italian,3,180,2026-01-22,20,UPI,540,Thursday,January,Evening
+304,C105,Paneer Tikka,Indian,1,210,2026-04-02,22,Card,210,Thursday,April,Night
+305,C105,Pasta,Italian,1,180,2026-01-06,12,Card,180,Tuesday,January,Morning
+306,C102,Ice Cream,Dessert,2,100,2026-01-01,19,UPI,200,Thursday,January,Evening
+307,C108,Biryani,Indian,1,220,2026-03-05,10,Cash,220,Thursday,March,Morning
+308,C109,Paneer Tikka,Indian,2,210,2026-01-27,17,UPI,420,Tuesday,January,Afternoon
+309,C102,Noodles,Chinese,2,150,2026-01-08,20,Card,300,Thursday,January,Evening
+310,C108,Biryani,Indian,1,220,2026-04-03,21,Cash,220,Friday,April,Evening
+311,C107,Biryani,Indian,2,220,2026-05-28,18,UPI,440,Thursday,May,Evening
+312,C106,Paneer Tikka,Indian,1,210,2026-03-25,13,UPI,210,Wednesday,March,Afternoon
+313,C105,Paneer Tikka,Indian,2,210,2026-03-04,15,UPI,420,Wednesday,March,Afternoon
+314,C101,Pizza,Fast Food,3,250,2026-03-29,17,UPI,750,Sunday,March,Afternoon
+315,C106,Pizza,Fast Food,2,250,2026-03-05,11,Card,500,Thursday,March,Morning
+316,C109,Coffee,Beverage,2,80,2026-02-02,21,Card,160,Monday,February,Evening
+317,C101,French Fries,Fast Food,1,90,2026-06-28,17,UPI,90,Sunday,June,Afternoon
+318,C110,French Fries,Fast Food,1,90,2026-03-27,21,Cash,90,Friday,March,Evening
+319,C101,Paneer Tikka,Indian,1,210,2026-04-07,11,UPI,210,Tuesday,April,Morning
+320,C106,Burger,Fast Food,2,120,2026-03-18,13,Card,240,Wednesday,March,Afternoon
+321,C110,Pizza,Fast Food,2,250,2026-06-15,16,Cash,500,Monday,June,Afternoon
+322,C108,Pizza,Fast Food,1,250,2026-04-16,16,Card,250,Thursday,April,Afternoon
+323,C106,Biryani,Indian,1,220,2026-05-03,15,UPI,220,Sunday,May,Afternoon
+324,C108,Sandwich,Fast Food,2,110,2026-06-09,18,Cash,220,Tuesday,June,Evening
+325,C107,Paneer Tikka,Indian,2,210,2026-03-03,13,Card,420,Tuesday,March,Afternoon
+326,C106,Pasta,Italian,2,180,2026-05-12,15,Cash,360,Tuesday,May,Afternoon
+327,C102,Biryani,Indian,2,220,2026-05-07,18,Cash,440,Thursday,May,Evening
+328,C109,Paneer Tikka,Indian,1,210,2026-03-28,21,UPI,210,Saturday,March,Evening
+329,C104,Biryani,Indian,3,220,2026-05-02,12,UPI,660,Saturday,May,Morning
+330,C103,Manchurian,Chinese,3,160,2026-04-29,14,Cash,480,Wednesday,April,Afternoon
+331,C105,French Fries,Fast Food,2,90,2026-05-26,12,UPI,180,Tuesday,May,Morning
+332,C103,Ice Cream,Dessert,2,100,2026-05-11,21,Card,200,Monday,May,Evening
+333,C105,French Fries,Fast Food,1,90,2026-04-07,16,Card,90,Tuesday,April,Afternoon
+334,C104,Cold Drink,Beverage,1,60,2026-01-24,13,Cash,60,Saturday,January,Afternoon
+335,C103,Pasta,Italian,1,180,2026-06-01,11,UPI,180,Monday,June,Morning
+336,C102,Pasta,Italian,2,180,2026-04-27,11,Cash,360,Monday,April,Morning
+337,C110,Sandwich,Fast Food,3,110,2026-06-19,12,Cash,330,Friday,June,Morning
+338,C108,Paneer Tikka,Indian,2,210,2026-05-11,22,UPI,420,Monday,May,Night
+339,C107,Burger,Fast Food,2,120,2026-04-09,19,Cash,240,Thursday,April,Evening
+340,C105,Paneer Tikka,Indian,3,210,2026-01-14,11,UPI,630,Wednesday,January,Morning
+341,C108,French Fries,Fast Food,1,90,2026-02-10,15,Card,90,Tuesday,February,Afternoon
+342,C106,Coffee,Beverage,3,80,2026-03-25,11,UPI,240,Wednesday,March,Morning
+343,C103,Ice Cream,Dessert,2,100,2026-03-30,18,UPI,200,Monday,March,Evening
+344,C107,Noodles,Chinese,1,150,2026-06-17,21,Card,150,Wednesday,June,Evening
+345,C110,Ice Cream,Dessert,2,100,2026-01-10,12,UPI,200,Saturday,January,Morning
+346,C105,Cold Drink,Beverage,1,60,2026-03-17,18,Card,60,Tuesday,March,Evening
+347,C104,Paneer Tikka,Indian,2,210,2026-01-01,18,UPI,420,Thursday,January,Evening
+348,C101,Ice Cream,Dessert,1,100,2026-06-14,14,UPI,100,Sunday,June,Afternoon
+349,C106,Manchurian,Chinese,3,160,2026-02-13,17,Card,480,Friday,February,Afternoon
+350,C105,Pasta,Italian,1,180,2026-04-24,11,Cash,180,Friday,April,Morning
+351,C105,Burger,Fast Food,2,120,2026-04-29,12,UPI,240,Wednesday,April,Morning
+352,C103,Ice Cream,Dessert,1,100,2026-03-10,10,Cash,100,Tuesday,March,Morning
+353,C108,Paneer Tikka,Indian,2,210,2026-01-20,14,Card,420,Tuesday,January,Afternoon
+354,C102,Ice Cream,Dessert,1,100,2026-05-06,11,UPI,100,Wednesday,May,Morning
+355,C102,Coffee,Beverage,3,80,2026-02-08,17,Card,240,Sunday,February,Afternoon
+356,C104,Paneer Tikka,Indian,3,210,2026-02-07,13,Cash,630,Saturday,February,Afternoon
+357,C105,Cold Drink,Beverage,2,60,2026-05-04,16,UPI,120,Monday,May,Afternoon
+358,C105,Sandwich,Fast Food,2,110,2026-01-08,22,Card,220,Thursday,January,Night
+359,C107,French Fries,Fast Food,1,90,2026-06-24,11,Card,90,Wednesday,June,Morning
+360,C102,Cold Drink,Beverage,2,60,2026-06-20,19,Cash,120,Saturday,June,Evening
+361,C108,Burger,Fast Food,3,120,2026-01-26,17,UPI,360,Monday,January,Afternoon
+362,C104,Paneer Tikka,Indian,2,210,2026-03-13,18,UPI,420,Friday,March,Evening
+363,C109,Burger,Fast Food,1,120,2026-05-27,14,Cash,120,Wednesday,May,Afternoon
+364,C109,Paneer Tikka,Indian,1,210,2026-03-04,18,UPI,210,Wednesday,March,Evening
+365,C104,Coffee,Beverage,3,80,2026-03-18,18,Cash,240,Wednesday,March,Evening
+366,C106,French Fries,Fast Food,3,90,2026-05-12,15,Cash,270,Tuesday,May,Afternoon
+367,C103,Pizza,Fast Food,3,250,2026-05-21,18,UPI,750,Thursday,May,Evening
+368,C106,Ice Cream,Dessert,2,100,2026-05-09,17,Card,200,Saturday,May,Afternoon
+369,C107,Coffee,Beverage,2,80,2026-05-23,10,Card,160,Saturday,May,Morning
+370,C109,Noodles,Chinese,1,150,2026-05-27,21,UPI,150,Wednesday,May,Evening
+371,C110,Burger,Fast Food,2,120,2026-02-04,21,Card,240,Wednesday,February,Evening
+372,C109,Biryani,Indian,2,220,2026-04-20,19,Card,440,Monday,April,Evening
+373,C106,Noodles,Chinese,2,150,2026-01-26,17,UPI,300,Monday,January,Afternoon
+374,C102,Cold Drink,Beverage,1,60,2026-06-02,21,UPI,60,Tuesday,June,Evening
+375,C106,Paneer Tikka,Indian,3,210,2026-01-15,20,Cash,630,Thursday,January,Evening
+376,C105,Pizza,Fast Food,3,250,2026-04-18,20,Card,750,Saturday,April,Evening
+377,C109,Ice Cream,Dessert,3,100,2026-03-21,14,Card,300,Saturday,March,Afternoon
+378,C106,Biryani,Indian,1,220,2026-01-15,13,Card,220,Thursday,January,Afternoon
+379,C104,Pizza,Fast Food,1,250,2026-03-19,22,Cash,250,Thursday,March,Night
+380,C108,Ice Cream,Dessert,3,100,2026-06-06,21,Cash,300,Saturday,June,Evening
+381,C101,Pasta,Italian,2,180,2026-06-07,11,UPI,360,Sunday,June,Morning
+382,C107,Pasta,Italian,2,180,2026-03-31,18,Card,360,Tuesday,March,Evening
+383,C107,Paneer Tikka,Indian,1,210,2026-03-15,16,Card,210,Sunday,March,Afternoon
+384,C108,Manchurian,Chinese,2,160,2026-06-19,22,Cash,320,Friday,June,Night
+385,C110,Sandwich,Fast Food,1,110,2026-02-23,10,Card,110,Monday,February,Morning
+386,C106,Ice Cream,Dessert,2,100,2026-05-21,16,UPI,200,Thursday,May,Afternoon
+387,C110,French Fries,Fast Food,1,90,2026-05-17,19,Cash,90,Sunday,May,Evening
+388,C110,Coffee,Beverage,1,80,2026-05-05,19,Card,80,Tuesday,May,Evening
+389,C104,Noodles,Chinese,3,150,2026-03-09,11,Card,450,Monday,March,Morning
+390,C104,Cold Drink,Beverage,3,60,2026-03-30,11,Cash,180,Monday,March,Morning
+391,C102,Burger,Fast Food,3,120,2026-03-10,10,UPI,360,Tuesday,March,Morning
+392,C105,Sandwich,Fast Food,2,110,2026-05-29,10,Card,220,Friday,May,Morning
+393,C109,Biryani,Indian,2,220,2026-06-09,20,Cash,440,Tuesday,June,Evening
+394,C107,Coffee,Beverage,3,80,2026-06-02,11,UPI,240,Tuesday,June,Morning
+395,C107,Pizza,Fast Food,2,250,2026-03-08,19,UPI,500,Sunday,March,Evening
+396,C103,Burger,Fast Food,2,120,2026-01-24,21,Cash,240,Saturday,January,Evening
+397,C104,French Fries,Fast Food,1,90,2026-02-11,16,UPI,90,Wednesday,February,Afternoon
+398,C108,Burger,Fast Food,1,120,2026-06-13,12,UPI,120,Saturday,June,Morning
+399,C104,Ice Cream,Dessert,3,100,2026-03-11,18,UPI,300,Wednesday,March,Evening
+400,C105,Burger,Fast Food,1,120,2026-03-01,11,Cash,120,Sunday,March,Morning
+401,C110,Manchurian,Chinese,2,160,2026-02-19,12,Card,320,Thursday,February,Morning
+402,C102,French Fries,Fast Food,3,90,2026-03-11,11,Cash,270,Wednesday,March,Morning
+403,C104,Burger,Fast Food,3,120,2026-02-04,11,Cash,360,Wednesday,February,Morning
+404,C109,Paneer Tikka,Indian,1,210,2026-02-05,14,Card,210,Thursday,February,Afternoon
+405,C101,Cold Drink,Beverage,3,60,2026-06-07,18,Card,180,Sunday,June,Evening
+406,C105,Sandwich,Fast Food,2,110,2026-04-02,12,UPI,220,Thursday,April,Morning
+407,C106,Coffee,Beverage,2,80,2026-01-30,14,Cash,160,Friday,January,Afternoon
+408,C106,Manchurian,Chinese,1,160,2026-02-01,10,Cash,160,Sunday,February,Morning
+409,C102,Pasta,Italian,1,180,2026-05-31,11,UPI,180,Sunday,May,Morning
+410,C109,Noodles,Chinese,1,150,2026-01-02,20,UPI,150,Friday,January,Evening
+411,C107,Ice Cream,Dessert,2,100,2026-03-08,13,Cash,200,Sunday,March,Afternoon
+412,C106,Pasta,Italian,3,180,2026-02-24,15,Card,540,Tuesday,February,Afternoon
+413,C101,French Fries,Fast Food,2,90,2026-03-01,14,Cash,180,Sunday,March,Afternoon
+414,C108,French Fries,Fast Food,3,90,2026-03-23,22,Cash,270,Monday,March,Night
+415,C109,French Fries,Fast Food,2,90,2026-03-08,16,Card,180,Sunday,March,Afternoon
+416,C102,Noodles,Chinese,3,150,2026-06-12,11,Card,450,Friday,June,Morning
+417,C109,Pizza,Fast Food,2,250,2026-01-20,11,Cash,500,Tuesday,January,Morning
+418,C101,Coffee,Beverage,3,80,2026-02-23,10,Cash,240,Monday,February,Morning
+419,C103,French Fries,Fast Food,3,90,2026-05-05,13,UPI,270,Tuesday,May,Afternoon
+420,C102,French Fries,Fast Food,1,90,2026-01-25,22,UPI,90,Sunday,January,Night
+421,C104,Pizza,Fast Food,1,250,2026-01-25,13,Cash,250,Sunday,January,Afternoon
+422,C102,Paneer Tikka,Indian,3,210,2026-05-14,22,Card,630,Thursday,May,Night
+423,C103,Biryani,Indian,1,220,2026-01-31,12,Cash,220,Saturday,January,Morning
+424,C102,Cold Drink,Beverage,2,60,2026-03-30,11,UPI,120,Monday,March,Morning
+425,C105,Manchurian,Chinese,3,160,2026-03-24,18,UPI,480,Tuesday,March,Evening
+426,C104,Paneer Tikka,Indian,1,210,2026-04-25,16,Card,210,Saturday,April,Afternoon
+427,C104,Manchurian,Chinese,3,160,2026-01-17,14,UPI,480,Saturday,January,Afternoon
+428,C107,Pasta,Italian,2,180,2026-06-13,21,Cash,360,Saturday,June,Evening
+429,C107,Noodles,Chinese,3,150,2026-04-26,22,Card,450,Sunday,April,Night
+430,C106,Paneer Tikka,Indian,1,210,2026-01-14,16,UPI,210,Wednesday,January,Afternoon
+431,C106,Sandwich,Fast Food,1,110,2026-05-10,20,Cash,110,Sunday,May,Evening
+432,C108,Noodles,Chinese,2,150,2026-05-18,16,Card,300,Monday,May,Afternoon
+433,C110,Noodles,Chinese,1,150,2026-03-06,22,Cash,150,Friday,March,Night
+434,C104,Noodles,Chinese,1,150,2026-03-23,14,UPI,150,Monday,March,Afternoon
+435,C105,Biryani,Indian,3,220,2026-05-19,14,Cash,660,Tuesday,May,Afternoon
+436,C108,Pasta,Italian,2,180,2026-02-03,13,Card,360,Tuesday,February,Afternoon
+437,C110,Coffee,Beverage,2,80,2026-06-29,22,UPI,160,Monday,June,Night
+438,C101,Cold Drink,Beverage,1,60,2026-05-21,10,UPI,60,Thursday,May,Morning
+439,C101,Coffee,Beverage,1,80,2026-05-09,11,Cash,80,Saturday,May,Morning
+440,C107,Pizza,Fast Food,1,250,2026-02-27,21,Cash,250,Friday,February,Evening
+441,C108,Manchurian,Chinese,3,160,2026-06-26,10,UPI,480,Friday,June,Morning
+442,C107,Biryani,Indian,1,220,2026-03-10,21,UPI,220,Tuesday,March,Evening
+443,C107,Manchurian,Chinese,1,160,2026-03-18,17,Card,160,Wednesday,March,Afternoon
+444,C108,Burger,Fast Food,3,120,2026-04-19,12,UPI,360,Sunday,April,Morning
+445,C104,Noodles,Chinese,2,150,2026-05-28,14,Card,300,Thursday,May,Afternoon
+446,C103,Pasta,Italian,3,180,2026-05-23,12,Card,540,Saturday,May,Morning
+447,C106,Ice Cream,Dessert,2,100,2026-01-05,14,Cash,200,Monday,January,Afternoon
+448,C108,French Fries,Fast Food,1,90,2026-04-21,21,UPI,90,Tuesday,April,Evening
+449,C104,Coffee,Beverage,1,80,2026-06-27,12,Cash,80,Saturday,June,Morning
+450,C109,Pasta,Italian,1,180,2026-03-19,18,Cash,180,Thursday,March,Evening
+451,C104,Sandwich,Fast Food,1,110,2026-04-24,19,Card,110,Friday,April,Evening
+452,C105,Manchurian,Chinese,1,160,2026-01-02,15,Card,160,Friday,January,Afternoon
+453,C101,Paneer Tikka,Indian,3,210,2026-01-11,19,Cash,630,Sunday,January,Evening
+454,C110,Sandwich,Fast Food,3,110,2026-06-02,17,UPI,330,Tuesday,June,Afternoon
+455,C104,Pizza,Fast Food,2,250,2026-01-22,13,UPI,500,Thursday,January,Afternoon
+456,C101,Paneer Tikka,Indian,2,210,2026-02-01,12,UPI,420,Sunday,February,Morning
+457,C101,Biryani,Indian,3,220,2026-05-02,16,UPI,660,Saturday,May,Afternoon
+458,C105,Pizza,Fast Food,2,250,2026-05-29,22,Cash,500,Friday,May,Night
+459,C107,Manchurian,Chinese,2,160,2026-02-15,17,Card,320,Sunday,February,Afternoon
+460,C109,Paneer Tikka,Indian,3,210,2026-03-27,15,Cash,630,Friday,March,Afternoon
+461,C102,Paneer Tikka,Indian,2,210,2026-01-29,22,UPI,420,Thursday,January,Night
+462,C103,Noodles,Chinese,2,150,2026-06-29,20,Card,300,Monday,June,Evening
+463,C105,Manchurian,Chinese,2,160,2026-02-13,22,UPI,320,Friday,February,Night
+464,C107,Burger,Fast Food,3,120,2026-01-03,15,UPI,360,Saturday,January,Afternoon
+465,C108,Sandwich,Fast Food,1,110,2026-04-18,18,Cash,110,Saturday,April,Evening
+466,C105,Cold Drink,Beverage,1,60,2026-05-24,17,Card,60,Sunday,May,Afternoon
+467,C110,Burger,Fast Food,3,120,2026-05-12,17,Cash,360,Tuesday,May,Afternoon
+468,C107,Ice Cream,Dessert,2,100,2026-01-10,14,Card,200,Saturday,January,Afternoon
+469,C109,Ice Cream,Dessert,1,100,2026-03-07,18,Cash,100,Saturday,March,Evening
+470,C101,Cold Drink,Beverage,2,60,2026-03-31,19,Cash,120,Tuesday,March,Evening
+471,C104,Coffee,Beverage,1,80,2026-06-11,14,Card,80,Thursday,June,Afternoon
+472,C105,Biryani,Indian,3,220,2026-03-11,17,Cash,660,Wednesday,March,Afternoon
+473,C108,Pasta,Italian,2,180,2026-04-21,22,Cash,360,Tuesday,April,Night
+474,C105,Biryani,Indian,2,220,2026-06-03,14,Cash,440,Wednesday,June,Afternoon
+475,C106,Manchurian,Chinese,2,160,2026-04-13,14,Cash,320,Monday,April,Afternoon
+476,C107,Pasta,Italian,1,180,2026-02-26,22,Card,180,Thursday,February,Night
+477,C110,Pasta,Italian,1,180,2026-01-14,12,Card,180,Wednesday,January,Morning
+478,C108,Pasta,Italian,2,180,2026-05-12,17,Cash,360,Tuesday,May,Afternoon
+479,C101,Pizza,Fast Food,3,250,2026-05-27,21,Card,750,Wednesday,May,Evening
+480,C110,Biryani,Indian,1,220,2026-05-30,17,Cash,220,Saturday,May,Afternoon
+481,C104,Noodles,Chinese,3,150,2026-06-08,13,Cash,450,Monday,June,Afternoon
+482,C102,Sandwich,Fast Food,1,110,2026-04-23,16,Card,110,Thursday,April,Afternoon
+483,C109,Pasta,Italian,3,180,2026-04-23,20,Cash,540,Thursday,April,Evening
+484,C106,Burger,Fast Food,3,120,2026-05-25,15,Card,360,Monday,May,Afternoon
+485,C110,Paneer Tikka,Indian,1,210,2026-03-16,16,UPI,210,Monday,March,Afternoon
+486,C103,Coffee,Beverage,2,80,2026-03-02,19,UPI,160,Monday,March,Evening
+487,C106,Ice Cream,Dessert,1,100,2026-04-23,15,UPI,100,Thursday,April,Afternoon
+488,C103,Ice Cream,Dessert,1,100,2026-04-19,12,Cash,100,Sunday,April,Morning
+489,C105,Biryani,Indian,3,220,2026-02-15,19,UPI,660,Sunday,February,Evening
+490,C105,Noodles,Chinese,2,150,2026-02-18,14,Cash,300,Wednesday,February,Afternoon
+491,C102,Cold Drink,Beverage,3,60,2026-01-04,16,Card,180,Sunday,January,Afternoon
+492,C109,Burger,Fast Food,2,120,2026-01-24,18,Cash,240,Saturday,January,Evening
+493,C104,Paneer Tikka,Indian,1,210,2026-04-18,21,UPI,210,Saturday,April,Evening
+494,C106,Pasta,Italian,2,180,2026-06-07,17,Card,360,Sunday,June,Afternoon
+495,C106,Biryani,Indian,2,220,2026-01-14,17,Card,440,Wednesday,January,Afternoon
+496,C104,Cold Drink,Beverage,1,60,2026-03-11,21,Card,60,Wednesday,March,Evening
+497,C109,Pasta,Italian,3,180,2026-03-23,19,UPI,540,Monday,March,Evening
+498,C107,Pasta,Italian,3,180,2026-06-27,10,Cash,540,Saturday,June,Morning
+499,C104,Pizza,Fast Food,3,250,2026-06-09,17,Card,750,Tuesday,June,Afternoon
+500,C108,Sandwich,Fast Food,2,110,2026-05-29,19,Cash,220,Friday,May,Evening
+501,C102,Coffee,Beverage,1,80,2026-06-14,19,UPI,80,Sunday,June,Evening
+502,C108,Biryani,Indian,1,220,2026-03-28,19,UPI,220,Saturday,March,Evening
+503,C109,Biryani,Indian,1,220,2026-04-25,18,UPI,220,Saturday,April,Evening
+504,C104,Coffee,Beverage,1,80,2026-06-10,11,Card,80,Wednesday,June,Morning
+505,C101,Cold Drink,Beverage,3,60,2026-03-12,15,UPI,180,Thursday,March,Afternoon
+506,C110,Manchurian,Chinese,2,160,2026-03-02,22,Card,320,Monday,March,Night
+507,C101,Coffee,Beverage,1,80,2026-06-16,15,Cash,80,Tuesday,June,Afternoon
+508,C105,French Fries,Fast Food,2,90,2026-04-08,10,UPI,180,Wednesday,April,Morning
+509,C110,Pizza,Fast Food,2,250,2026-01-22,18,Cash,500,Thursday,January,Evening
+510,C108,Biryani,Indian,2,220,2026-05-05,16,Card,440,Tuesday,May,Afternoon
+511,C110,Manchurian,Chinese,3,160,2026-02-07,21,Card,480,Saturday,February,Evening
+512,C105,Biryani,Indian,3,220,2026-03-04,10,Cash,660,Wednesday,March,Morning
+513,C108,Pasta,Italian,2,180,2026-04-20,13,UPI,360,Monday,April,Afternoon
+514,C109,French Fries,Fast Food,2,90,2026-04-26,21,Cash,180,Sunday,April,Evening
+515,C102,Paneer Tikka,Indian,3,210,2026-01-26,10,UPI,630,Monday,January,Morning
+516,C110,Manchurian,Chinese,1,160,2026-05-11,17,Card,160,Monday,May,Afternoon
+517,C109,French Fries,Fast Food,3,90,2026-06-16,13,Card,270,Tuesday,June,Afternoon
+518,C103,Pizza,Fast Food,1,250,2026-06-20,12,Card,250,Saturday,June,Morning
+519,C104,Manchurian,Chinese,1,160,2026-01-12,19,UPI,160,Monday,January,Evening
+520,C108,Noodles,Chinese,1,150,2026-03-13,16,Cash,150,Friday,March,Afternoon
+521,C102,Cold Drink,Beverage,2,60,2026-03-01,13,Card,120,Sunday,March,Afternoon
+522,C102,Biryani,Indian,3,220,2026-04-19,12,Card,660,Sunday,April,Morning
+523,C107,Manchurian,Chinese,1,160,2026-06-10,21,UPI,160,Wednesday,June,Evening
+524,C104,Paneer Tikka,Indian,1,210,2026-06-25,20,Cash,210,Thursday,June,Evening
+525,C109,French Fries,Fast Food,3,90,2026-04-20,15,Card,270,Monday,April,Afternoon
+526,C107,Sandwich,Fast Food,3,110,2026-01-16,10,UPI,330,Friday,January,Morning
+527,C104,Noodles,Chinese,2,150,2026-06-07,22,Cash,300,Sunday,June,Night
+528,C105,Cold Drink,Beverage,3,60,2026-02-28,16,UPI,180,Saturday,February,Afternoon
+529,C104,Biryani,Indian,1,220,2026-04-07,13,Cash,220,Tuesday,April,Afternoon
+530,C109,Cold Drink,Beverage,3,60,2026-05-06,14,Cash,180,Wednesday,May,Afternoon
+531,C102,Pizza,Fast Food,1,250,2026-05-14,12,Card,250,Thursday,May,Morning
+532,C108,Paneer Tikka,Indian,1,210,2026-04-18,18,Cash,210,Saturday,April,Evening
+533,C110,French Fries,Fast Food,2,90,2026-05-11,21,UPI,180,Monday,May,Evening
+534,C104,Paneer Tikka,Indian,3,210,2026-06-10,14,Cash,630,Wednesday,June,Afternoon
+535,C109,Coffee,Beverage,2,80,2026-02-20,11,Card,160,Friday,February,Morning
+536,C103,French Fries,Fast Food,3,90,2026-01-17,14,UPI,270,Saturday,January,Afternoon
+537,C103,Pasta,Italian,2,180,2026-05-05,11,Card,360,Tuesday,May,Morning
+538,C108,Sandwich,Fast Food,1,110,2026-05-28,21,Card,110,Thursday,May,Evening
+539,C109,Sandwich,Fast Food,2,110,2026-05-08,12,Card,220,Friday,May,Morning
+540,C109,French Fries,Fast Food,3,90,2026-05-23,14,UPI,270,Saturday,May,Afternoon
+541,C104,Noodles,Chinese,2,150,2026-02-15,13,UPI,300,Sunday,February,Afternoon
+542,C102,Sandwich,Fast Food,1,110,2026-05-17,12,Card,110,Sunday,May,Morning
+543,C107,Burger,Fast Food,3,120,2026-05-14,20,Card,360,Thursday,May,Evening
+544,C106,Ice Cream,Dessert,2,100,2026-04-08,17,Cash,200,Wednesday,April,Afternoon
+545,C104,Pasta,Italian,3,180,2026-03-13,12,UPI,540,Friday,March,Morning
+546,C110,Coffee,Beverage,2,80,2026-06-17,17,Cash,160,Wednesday,June,Afternoon
+547,C103,Sandwich,Fast Food,3,110,2026-05-30,18,Card,330,Saturday,May,Evening
+548,C107,Cold Drink,Beverage,1,60,2026-01-19,18,Cash,60,Monday,January,Evening
+549,C103,Coffee,Beverage,1,80,2026-05-04,16,Card,80,Monday,May,Afternoon
+550,C105,Pasta,Italian,2,180,2026-05-22,17,UPI,360,Friday,May,Afternoon
+551,C109,Pasta,Italian,2,180,2026-06-17,10,UPI,360,Wednesday,June,Morning
+552,C105,Manchurian,Chinese,2,160,2026-02-21,18,Card,320,Saturday,February,Evening
+553,C104,Coffee,Beverage,3,80,2026-03-19,18,Cash,240,Thursday,March,Evening
+554,C108,Coffee,Beverage,1,80,2026-05-05,15,Card,80,Tuesday,May,Afternoon
+555,C101,Sandwich,Fast Food,2,110,2026-01-16,22,Cash,220,Friday,January,Night
+556,C102,Paneer Tikka,Indian,2,210,2026-02-04,20,UPI,420,Wednesday,February,Evening
+557,C103,Noodles,Chinese,1,150,2026-03-10,13,UPI,150,Tuesday,March,Afternoon
+558,C101,Noodles,Chinese,3,150,2026-05-17,13,Cash,450,Sunday,May,Afternoon
+559,C107,Manchurian,Chinese,1,160,2026-03-06,17,Card,160,Friday,March,Afternoon
+560,C109,Manchurian,Chinese,2,160,2026-03-17,15,Card,320,Tuesday,March,Afternoon
+561,C108,Cold Drink,Beverage,2,60,2026-02-21,22,UPI,120,Saturday,February,Night
+562,C103,Biryani,Indian,1,220,2026-02-07,13,Card,220,Saturday,February,Afternoon
+563,C103,Sandwich,Fast Food,2,110,2026-04-02,21,Cash,220,Thursday,April,Evening
+564,C109,Paneer Tikka,Indian,3,210,2026-06-11,20,UPI,630,Thursday,June,Evening
+565,C106,Manchurian,Chinese,2,160,2026-03-28,15,UPI,320,Saturday,March,Afternoon
+566,C110,Pizza,Fast Food,2,250,2026-05-25,22,Card,500,Monday,May,Night
+567,C109,Manchurian,Chinese,1,160,2026-05-04,19,UPI,160,Monday,May,Evening
+568,C103,Burger,Fast Food,2,120,2026-04-09,17,UPI,240,Thursday,April,Afternoon
+569,C106,Pasta,Italian,1,180,2026-02-25,10,UPI,180,Wednesday,February,Morning
+570,C110,Burger,Fast Food,1,120,2026-05-16,20,Card,120,Saturday,May,Evening
+571,C106,Noodles,Chinese,3,150,2026-06-26,19,Cash,450,Friday,June,Evening
+572,C101,Coffee,Beverage,1,80,2026-01-09,17,UPI,80,Friday,January,Afternoon
+573,C107,Burger,Fast Food,3,120,2026-03-29,14,Card,360,Sunday,March,Afternoon
+574,C103,Coffee,Beverage,3,80,2026-02-08,22,Card,240,Sunday,February,Night
+575,C108,Burger,Fast Food,3,120,2026-06-17,21,UPI,360,Wednesday,June,Evening
+576,C101,Noodles,Chinese,1,150,2026-04-19,21,UPI,150,Sunday,April,Evening
+577,C105,Cold Drink,Beverage,2,60,2026-04-13,21,UPI,120,Monday,April,Evening
+578,C107,Ice Cream,Dessert,2,100,2026-06-23,16,UPI,200,Tuesday,June,Afternoon
+579,C104,Pasta,Italian,2,180,2026-03-23,11,Cash,360,Monday,March,Morning
+580,C105,Burger,Fast Food,2,120,2026-05-07,13,Card,240,Thursday,May,Afternoon
+581,C101,Paneer Tikka,Indian,1,210,2026-06-17,13,Cash,210,Wednesday,June,Afternoon
+582,C102,Biryani,Indian,3,220,2026-05-23,18,Card,660,Saturday,May,Evening
+583,C110,Coffee,Beverage,1,80,2026-02-20,20,Cash,80,Friday,February,Evening
+584,C109,Pizza,Fast Food,1,250,2026-02-20,15,Card,250,Friday,February,Afternoon
+585,C105,Paneer Tikka,Indian,2,210,2026-01-03,13,Cash,420,Saturday,January,Afternoon
+586,C101,French Fries,Fast Food,2,90,2026-05-11,17,UPI,180,Monday,May,Afternoon
+587,C107,Paneer Tikka,Indian,1,210,2026-06-12,20,UPI,210,Friday,June,Evening
+588,C101,Cold Drink,Beverage,2,60,2026-04-11,14,Card,120,Saturday,April,Afternoon
+589,C106,Coffee,Beverage,1,80,2026-01-23,17,UPI,80,Friday,January,Afternoon
+590,C107,French Fries,Fast Food,3,90,2026-04-17,11,UPI,270,Friday,April,Morning
+591,C103,Noodles,Chinese,2,150,2026-05-02,21,Card,300,Saturday,May,Evening
+592,C107,Paneer Tikka,Indian,3,210,2026-06-21,18,Card,630,Sunday,June,Evening
+593,C108,Cold Drink,Beverage,1,60,2026-02-26,15,Card,60,Thursday,February,Afternoon
+594,C104,Pizza,Fast Food,3,250,2026-06-05,14,UPI,750,Friday,June,Afternoon
+595,C104,Manchurian,Chinese,3,160,2026-03-06,10,Card,480,Friday,March,Morning
+596,C101,Cold Drink,Beverage,3,60,2026-05-26,21,UPI,180,Tuesday,May,Evening
+597,C104,French Fries,Fast Food,2,90,2026-03-05,14,Cash,180,Thursday,March,Afternoon
+598,C102,Burger,Fast Food,1,120,2026-01-31,13,UPI,120,Saturday,January,Afternoon
+599,C104,Manchurian,Chinese,3,160,2026-03-29,20,Cash,480,Sunday,March,Evening
+600,C110,Ice Cream,Dessert,3,100,2026-06-23,15,Card,300,Tuesday,June,Afternoon
+601,C105,Pizza,Fast Food,1,250,2026-01-06,20,Cash,250,Tuesday,January,Evening
+602,C110,Cold Drink,Beverage,1,60,2026-05-02,22,UPI,60,Saturday,May,Night
+603,C109,Biryani,Indian,2,220,2026-03-28,15,UPI,440,Saturday,March,Afternoon
+604,C106,Ice Cream,Dessert,1,100,2026-06-24,13,UPI,100,Wednesday,June,Afternoon
+605,C106,Noodles,Chinese,2,150,2026-02-18,22,UPI,300,Wednesday,February,Night
+606,C110,Ice Cream,Dessert,3,100,2026-03-28,12,Cash,300,Saturday,March,Morning
+607,C107,Biryani,Indian,1,220,2026-03-26,21,Card,220,Thursday,March,Evening
+608,C103,Burger,Fast Food,1,120,2026-04-02,17,UPI,120,Thursday,April,Afternoon
+609,C101,Pizza,Fast Food,3,250,2026-05-19,13,Card,750,Tuesday,May,Afternoon
+610,C109,Paneer Tikka,Indian,2,210,2026-03-23,17,Cash,420,Monday,March,Afternoon
+611,C108,Biryani,Indian,1,220,2026-06-14,16,UPI,220,Sunday,June,Afternoon
+612,C103,Burger,Fast Food,2,120,2026-04-11,13,Card,240,Saturday,April,Afternoon
+613,C106,Ice Cream,Dessert,3,100,2026-04-27,11,UPI,300,Monday,April,Morning
+614,C107,Paneer Tikka,Indian,3,210,2026-05-29,15,UPI,630,Friday,May,Afternoon
+615,C110,Burger,Fast Food,2,120,2026-01-20,18,Cash,240,Tuesday,January,Evening
+616,C104,Burger,Fast Food,2,120,2026-04-25,12,Cash,240,Saturday,April,Morning
+617,C108,Sandwich,Fast Food,1,110,2026-04-12,20,Card,110,Sunday,April,Evening
+618,C102,Ice Cream,Dessert,2,100,2026-06-28,14,Card,200,Sunday,June,Afternoon
+619,C109,Pasta,Italian,3,180,2026-05-15,22,UPI,540,Friday,May,Night
+620,C108,Burger,Fast Food,1,120,2026-03-22,10,Card,120,Sunday,March,Morning
+621,C107,French Fries,Fast Food,1,90,2026-03-08,20,Cash,90,Sunday,March,Evening
+622,C103,French Fries,Fast Food,3,90,2026-04-03,15,Cash,270,Friday,April,Afternoon
+623,C109,Cold Drink,Beverage,2,60,2026-02-11,14,Card,120,Wednesday,February,Afternoon
+624,C103,Manchurian,Chinese,2,160,2026-01-30,18,Card,320,Friday,January,Evening
+625,C108,Pizza,Fast Food,1,250,2026-01-08,19,Card,250,Thursday,January,Evening
+626,C105,Sandwich,Fast Food,1,110,2026-03-08,10,UPI,110,Sunday,March,Morning
+627,C109,Noodles,Chinese,1,150,2026-05-21,17,Card,150,Thursday,May,Afternoon
+628,C108,Burger,Fast Food,2,120,2026-06-13,12,Card,240,Saturday,June,Morning
+629,C106,Coffee,Beverage,2,80,2026-02-03,13,Card,160,Tuesday,February,Afternoon
+630,C102,Biryani,Indian,2,220,2026-03-13,12,UPI,440,Friday,March,Morning
+631,C108,Biryani,Indian,2,220,2026-05-03,15,UPI,440,Sunday,May,Afternoon
+632,C102,Sandwich,Fast Food,2,110,2026-06-11,19,Cash,220,Thursday,June,Evening
+633,C102,Cold Drink,Beverage,3,60,2026-01-13,17,Card,180,Tuesday,January,Afternoon
+634,C108,Biryani,Indian,2,220,2026-05-16,16,Cash,440,Saturday,May,Afternoon
+635,C107,Sandwich,Fast Food,1,110,2026-01-27,15,UPI,110,Tuesday,January,Afternoon
+636,C105,Sandwich,Fast Food,1,110,2026-03-06,10,UPI,110,Friday,March,Morning
+637,C109,Noodles,Chinese,3,150,2026-05-27,14,UPI,450,Wednesday,May,Afternoon
+638,C107,French Fries,Fast Food,3,90,2026-01-31,10,Cash,270,Saturday,January,Morning
+639,C104,Cold Drink,Beverage,2,60,2026-01-10,13,Cash,120,Saturday,January,Afternoon
+640,C108,Pizza,Fast Food,1,250,2026-06-05,13,Card,250,Friday,June,Afternoon
+641,C107,French Fries,Fast Food,1,90,2026-01-30,13,Cash,90,Friday,January,Afternoon
+642,C108,Paneer Tikka,Indian,2,210,2026-04-29,11,Cash,420,Wednesday,April,Morning
+643,C109,Ice Cream,Dessert,1,100,2026-04-15,21,Card,100,Wednesday,April,Evening
+644,C106,Burger,Fast Food,2,120,2026-04-03,19,Cash,240,Friday,April,Evening
+645,C108,Burger,Fast Food,2,120,2026-03-28,17,UPI,240,Saturday,March,Afternoon
+646,C109,French Fries,Fast Food,1,90,2026-03-10,21,UPI,90,Tuesday,March,Evening
+647,C102,Ice Cream,Dessert,3,100,2026-05-27,18,Cash,300,Wednesday,May,Evening
+648,C106,Biryani,Indian,1,220,2026-05-21,12,Card,220,Thursday,May,Morning
+649,C110,Noodles,Chinese,3,150,2026-05-25,19,UPI,450,Monday,May,Evening
+650,C108,Burger,Fast Food,1,120,2026-03-01,20,Card,120,Sunday,March,Evening
+651,C105,Cold Drink,Beverage,1,60,2026-06-24,16,Card,60,Wednesday,June,Afternoon
+652,C101,Noodles,Chinese,3,150,2026-06-10,17,Card,450,Wednesday,June,Afternoon
+653,C104,Coffee,Beverage,1,80,2026-04-04,18,Card,80,Saturday,April,Evening
+654,C101,Biryani,Indian,2,220,2026-05-20,14,UPI,440,Wednesday,May,Afternoon
+655,C103,French Fries,Fast Food,1,90,2026-02-17,16,Card,90,Tuesday,February,Afternoon
+656,C109,Pizza,Fast Food,3,250,2026-04-15,21,UPI,750,Wednesday,April,Evening
+657,C102,Pizza,Fast Food,3,250,2026-05-21,13,UPI,750,Thursday,May,Afternoon
+658,C108,Coffee,Beverage,2,80,2026-06-15,20,Cash,160,Monday,June,Evening
+659,C102,Burger,Fast Food,3,120,2026-04-10,22,UPI,360,Friday,April,Night
+660,C103,Manchurian,Chinese,2,160,2026-01-08,16,Cash,320,Thursday,January,Afternoon
+661,C106,Paneer Tikka,Indian,2,210,2026-06-21,14,UPI,420,Sunday,June,Afternoon
+662,C103,Pasta,Italian,3,180,2026-01-21,21,UPI,540,Wednesday,January,Evening
+663,C110,Coffee,Beverage,2,80,2026-02-18,15,UPI,160,Wednesday,February,Afternoon
+664,C105,Paneer Tikka,Indian,2,210,2026-02-16,14,Cash,420,Monday,February,Afternoon
+665,C104,Manchurian,Chinese,1,160,2026-01-02,15,Cash,160,Friday,January,Afternoon
+666,C106,Cold Drink,Beverage,3,60,2026-06-12,18,UPI,180,Friday,June,Evening
+667,C109,Paneer Tikka,Indian,1,210,2026-04-26,17,Cash,210,Sunday,April,Afternoon
+668,C104,Paneer Tikka,Indian,1,210,2026-03-31,15,Card,210,Tuesday,March,Afternoon
+669,C106,Paneer Tikka,Indian,2,210,2026-01-16,10,UPI,420,Friday,January,Morning
+670,C105,Cold Drink,Beverage,2,60,2026-06-24,18,Cash,120,Wednesday,June,Evening
+671,C110,Sandwich,Fast Food,3,110,2026-06-02,10,Card,330,Tuesday,June,Morning
+672,C105,Pasta,Italian,3,180,2026-02-26,21,UPI,540,Thursday,February,Evening
+673,C108,Sandwich,Fast Food,1,110,2026-04-21,12,UPI,110,Tuesday,April,Morning
+674,C104,Sandwich,Fast Food,3,110,2026-02-14,15,Card,330,Saturday,February,Afternoon
+675,C107,Coffee,Beverage,2,80,2026-06-06,11,Cash,160,Saturday,June,Morning
+676,C107,Pasta,Italian,1,180,2026-03-31,17,UPI,180,Tuesday,March,Afternoon
+677,C106,Manchurian,Chinese,2,160,2026-04-06,13,UPI,320,Monday,April,Afternoon
+678,C110,Burger,Fast Food,3,120,2026-02-28,19,UPI,360,Saturday,February,Evening
+679,C103,Cold Drink,Beverage,3,60,2026-01-25,19,Card,180,Sunday,January,Evening
+680,C101,Noodles,Chinese,3,150,2026-04-14,13,UPI,450,Tuesday,April,Afternoon
+681,C109,Pasta,Italian,2,180,2026-04-12,17,Card,360,Sunday,April,Afternoon
+682,C101,Coffee,Beverage,2,80,2026-06-23,11,Cash,160,Tuesday,June,Morning
+683,C108,Noodles,Chinese,1,150,2026-03-25,13,Cash,150,Wednesday,March,Afternoon
+684,C102,Burger,Fast Food,3,120,2026-06-27,15,Card,360,Saturday,June,Afternoon
+685,C106,Cold Drink,Beverage,2,60,2026-01-21,14,Cash,120,Wednesday,January,Afternoon
+686,C103,French Fries,Fast Food,2,90,2026-03-19,19,Cash,180,Thursday,March,Evening
+687,C101,French Fries,Fast Food,1,90,2026-04-03,17,UPI,90,Friday,April,Afternoon
+688,C106,Ice Cream,Dessert,3,100,2026-03-18,11,UPI,300,Wednesday,March,Morning
+689,C110,Pasta,Italian,3,180,2026-04-09,21,Cash,540,Thursday,April,Evening
+690,C109,Coffee,Beverage,1,80,2026-03-17,20,Cash,80,Tuesday,March,Evening
+691,C102,Biryani,Indian,2,220,2026-02-24,15,Cash,440,Tuesday,February,Afternoon
+692,C102,French Fries,Fast Food,3,90,2026-01-04,21,UPI,270,Sunday,January,Evening
+693,C102,Ice Cream,Dessert,2,100,2026-02-12,14,Card,200,Thursday,February,Afternoon
+694,C104,Manchurian,Chinese,2,160,2026-05-21,19,Card,320,Thursday,May,Evening
+695,C104,Burger,Fast Food,1,120,2026-06-20,16,Cash,120,Saturday,June,Afternoon
+696,C105,French Fries,Fast Food,1,90,2026-04-03,15,Cash,90,Friday,April,Afternoon
+697,C105,Pasta,Italian,2,180,2026-04-11,21,Cash,360,Saturday,April,Evening
+698,C108,Paneer Tikka,Indian,3,210,2026-04-14,11,Card,630,Tuesday,April,Morning
+699,C103,French Fries,Fast Food,1,90,2026-04-11,20,UPI,90,Saturday,April,Evening
+700,C102,Cold Drink,Beverage,3,60,2026-01-09,15,Card,180,Friday,January,Afternoon
+701,C107,Burger,Fast Food,1,120,2026-06-09,18,UPI,120,Tuesday,June,Evening
+702,C103,Biryani,Indian,2,220,2026-05-28,14,Card,440,Thursday,May,Afternoon
+703,C101,Burger,Fast Food,2,120,2026-04-13,20,Cash,240,Monday,April,Evening
+704,C102,Pasta,Italian,1,180,2026-04-03,13,UPI,180,Friday,April,Afternoon
+705,C104,Pizza,Fast Food,2,250,2026-01-01,19,Card,500,Thursday,January,Evening
+706,C109,Cold Drink,Beverage,1,60,2026-02-28,20,UPI,60,Saturday,February,Evening
+707,C108,Cold Drink,Beverage,2,60,2026-05-25,15,UPI,120,Monday,May,Afternoon
+708,C108,Coffee,Beverage,3,80,2026-03-09,14,Card,240,Monday,March,Afternoon
+709,C103,Noodles,Chinese,2,150,2026-04-09,21,Card,300,Thursday,April,Evening
+710,C110,Paneer Tikka,Indian,3,210,2026-02-16,16,UPI,630,Monday,February,Afternoon
+711,C104,Noodles,Chinese,2,150,2026-05-12,16,Card,300,Tuesday,May,Afternoon
+712,C108,Pizza,Fast Food,1,250,2026-04-26,22,UPI,250,Sunday,April,Night
+713,C109,Biryani,Indian,2,220,2026-04-22,16,Card,440,Wednesday,April,Afternoon
+714,C101,Pasta,Italian,1,180,2026-05-02,12,Card,180,Saturday,May,Morning
+715,C104,Manchurian,Chinese,3,160,2026-01-27,17,Cash,480,Tuesday,January,Afternoon
+716,C102,Manchurian,Chinese,3,160,2026-01-24,19,UPI,480,Saturday,January,Evening
+717,C105,Burger,Fast Food,1,120,2026-04-26,16,Card,120,Sunday,April,Afternoon
+718,C109,Noodles,Chinese,1,150,2026-03-03,18,Cash,150,Tuesday,March,Evening
+719,C108,French Fries,Fast Food,2,90,2026-04-11,18,Card,180,Saturday,April,Evening
+720,C104,Sandwich,Fast Food,1,110,2026-06-15,14,Card,110,Monday,June,Afternoon
+721,C103,Biryani,Indian,2,220,2026-03-27,13,Card,440,Friday,March,Afternoon
+722,C107,Pasta,Italian,1,180,2026-06-18,14,Cash,180,Thursday,June,Afternoon
+723,C103,Pizza,Fast Food,1,250,2026-01-30,14,Cash,250,Friday,January,Afternoon
+724,C106,Coffee,Beverage,3,80,2026-05-06,20,Card,240,Wednesday,May,Evening
+725,C105,Manchurian,Chinese,2,160,2026-01-22,14,UPI,320,Thursday,January,Afternoon
+726,C102,Ice Cream,Dessert,2,100,2026-01-31,19,Card,200,Saturday,January,Evening
+727,C109,Coffee,Beverage,2,80,2026-05-19,19,UPI,160,Tuesday,May,Evening
+728,C109,Pasta,Italian,3,180,2026-02-17,13,Card,540,Tuesday,February,Afternoon
+729,C101,Noodles,Chinese,1,150,2026-04-11,15,Card,150,Saturday,April,Afternoon
+730,C109,Coffee,Beverage,1,80,2026-02-20,13,Card,80,Friday,February,Afternoon
+731,C106,Manchurian,Chinese,3,160,2026-04-14,16,UPI,480,Tuesday,April,Afternoon
+732,C109,Sandwich,Fast Food,1,110,2026-05-02,16,UPI,110,Saturday,May,Afternoon
+733,C106,Pizza,Fast Food,1,250,2026-06-18,22,Cash,250,Thursday,June,Night
+734,C101,Pasta,Italian,3,180,2026-02-21,14,Card,540,Saturday,February,Afternoon
+735,C101,Burger,Fast Food,3,120,2026-03-17,22,UPI,360,Tuesday,March,Night
+736,C101,Biryani,Indian,2,220,2026-01-15,13,Card,440,Thursday,January,Afternoon
+737,C110,Ice Cream,Dessert,2,100,2026-04-26,12,UPI,200,Sunday,April,Morning
+738,C103,Pizza,Fast Food,3,250,2026-05-12,17,Cash,750,Tuesday,May,Afternoon
+739,C105,Coffee,Beverage,3,80,2026-06-26,17,UPI,240,Friday,June,Afternoon
+740,C103,Noodles,Chinese,1,150,2026-01-27,15,Card,150,Tuesday,January,Afternoon
+741,C110,Paneer Tikka,Indian,3,210,2026-03-21,20,UPI,630,Saturday,March,Evening
+742,C102,Pasta,Italian,3,180,2026-04-05,13,Cash,540,Sunday,April,Afternoon
+743,C108,Biryani,Indian,3,220,2026-02-26,14,Card,660,Thursday,February,Afternoon
+744,C103,Biryani,Indian,3,220,2026-04-24,16,Cash,660,Friday,April,Afternoon
+745,C101,Pasta,Italian,1,180,2026-03-13,21,Cash,180,Friday,March,Evening
+746,C101,Noodles,Chinese,3,150,2026-03-16,14,Cash,450,Monday,March,Afternoon
+747,C105,Burger,Fast Food,2,120,2026-01-05,18,Cash,240,Monday,January,Evening
+748,C102,Manchurian,Chinese,2,160,2026-02-28,10,UPI,320,Saturday,February,Morning
+749,C107,Biryani,Indian,2,220,2026-05-03,11,UPI,440,Sunday,May,Morning
+750,C107,Pasta,Italian,2,180,2026-05-15,16,Card,360,Friday,May,Afternoon
+751,C110,French Fries,Fast Food,2,90,2026-05-28,22,UPI,180,Thursday,May,Night
+752,C110,Coffee,Beverage,2,80,2026-05-16,19,UPI,160,Saturday,May,Evening
+753,C109,Pizza,Fast Food,1,250,2026-01-06,19,UPI,250,Tuesday,January,Evening
+754,C101,Pizza,Fast Food,3,250,2026-06-18,10,Card,750,Thursday,June,Morning
+755,C109,Ice Cream,Dessert,2,100,2026-05-11,19,Card,200,Monday,May,Evening
+756,C106,Pizza,Fast Food,2,250,2026-05-04,17,Cash,500,Monday,May,Afternoon
+757,C106,Cold Drink,Beverage,3,60,2026-06-20,16,Card,180,Saturday,June,Afternoon
+758,C104,Coffee,Beverage,3,80,2026-05-28,21,Card,240,Thursday,May,Evening
+759,C106,Pizza,Fast Food,2,250,2026-06-07,14,Card,500,Sunday,June,Afternoon
+760,C101,French Fries,Fast Food,1,90,2026-01-27,19,Cash,90,Tuesday,January,Evening
+761,C104,Coffee,Beverage,2,80,2026-04-10,20,UPI,160,Friday,April,Evening
+762,C105,Biryani,Indian,2,220,2026-06-03,18,Card,440,Wednesday,June,Evening
+763,C108,Ice Cream,Dessert,1,100,2026-05-30,12,Cash,100,Saturday,May,Morning
+764,C101,Pasta,Italian,1,180,2026-04-08,18,UPI,180,Wednesday,April,Evening
+765,C104,Pasta,Italian,1,180,2026-01-07,10,Card,180,Wednesday,January,Morning
+766,C110,Burger,Fast Food,1,120,2026-05-18,13,Cash,120,Monday,May,Afternoon
+767,C106,French Fries,Fast Food,2,90,2026-05-25,19,Cash,180,Monday,May,Evening
+768,C104,Biryani,Indian,3,220,2026-03-26,18,UPI,660,Thursday,March,Evening
+769,C103,Ice Cream,Dessert,2,100,2026-03-14,20,UPI,200,Saturday,March,Evening
+770,C102,Ice Cream,Dessert,2,100,2026-05-01,18,UPI,200,Friday,May,Evening
+771,C107,Manchurian,Chinese,1,160,2026-02-08,10,Card,160,Sunday,February,Morning
+772,C105,Pasta,Italian,1,180,2026-02-16,10,Card,180,Monday,February,Morning
+773,C102,Pizza,Fast Food,1,250,2026-02-09,20,Card,250,Monday,February,Evening
+774,C107,Cold Drink,Beverage,2,60,2026-06-10,20,Cash,120,Wednesday,June,Evening
+775,C108,Pizza,Fast Food,3,250,2026-02-07,12,Cash,750,Saturday,February,Morning
+776,C108,Biryani,Indian,3,220,2026-04-12,10,Card,660,Sunday,April,Morning
+777,C109,Manchurian,Chinese,1,160,2026-06-28,19,UPI,160,Sunday,June,Evening
+778,C101,French Fries,Fast Food,3,90,2026-04-17,18,UPI,270,Friday,April,Evening
+779,C108,French Fries,Fast Food,2,90,2026-02-06,18,Card,180,Friday,February,Evening
+780,C106,Noodles,Chinese,2,150,2026-01-02,22,Cash,300,Friday,January,Night
+781,C105,Manchurian,Chinese,3,160,2026-06-13,11,Card,480,Saturday,June,Morning
+782,C106,Paneer Tikka,Indian,3,210,2026-01-18,11,Card,630,Sunday,January,Morning
+783,C106,Cold Drink,Beverage,3,60,2026-01-04,15,Card,180,Sunday,January,Afternoon
+784,C106,Burger,Fast Food,2,120,2026-02-24,12,Cash,240,Tuesday,February,Morning
+785,C105,Coffee,Beverage,2,80,2026-05-09,15,UPI,160,Saturday,May,Afternoon
+786,C107,Noodles,Chinese,2,150,2026-04-02,14,Card,300,Thursday,April,Afternoon
+787,C101,Pasta,Italian,1,180,2026-03-24,12,Card,180,Tuesday,March,Morning
+788,C110,Manchurian,Chinese,1,160,2026-01-23,18,UPI,160,Friday,January,Evening
+789,C104,Sandwich,Fast Food,1,110,2026-02-15,16,Cash,110,Sunday,February,Afternoon
+790,C107,Cold Drink,Beverage,2,60,2026-06-26,19,UPI,120,Friday,June,Evening
+791,C103,Burger,Fast Food,2,120,2026-03-02,18,UPI,240,Monday,March,Evening
+792,C106,Biryani,Indian,1,220,2026-02-08,15,UPI,220,Sunday,February,Afternoon
+793,C103,Cold Drink,Beverage,3,60,2026-03-28,10,Cash,180,Saturday,March,Morning
+794,C105,Coffee,Beverage,1,80,2026-05-07,15,Card,80,Thursday,May,Afternoon
+795,C101,Pasta,Italian,1,180,2026-04-22,16,Card,180,Wednesday,April,Afternoon
+796,C106,Manchurian,Chinese,1,160,2026-03-26,11,Cash,160,Thursday,March,Morning
+797,C110,French Fries,Fast Food,2,90,2026-02-02,10,Card,180,Monday,February,Morning
+798,C104,Cold Drink,Beverage,3,60,2026-05-18,21,Cash,180,Monday,May,Evening
+799,C107,Coffee,Beverage,2,80,2026-01-28,20,Card,160,Wednesday,January,Evening
+800,C108,French Fries,Fast Food,2,90,2026-05-07,12,Card,180,Thursday,May,Morning
+801,C101,Coffee,Beverage,2,80,2026-06-24,10,Card,160,Wednesday,June,Morning
+802,C110,Biryani,Indian,3,220,2026-03-15,17,UPI,660,Sunday,March,Afternoon
+803,C106,Pizza,Fast Food,1,250,2026-04-08,12,UPI,250,Wednesday,April,Morning
+804,C105,Pizza,Fast Food,1,250,2026-04-03,22,UPI,250,Friday,April,Night
+805,C101,Sandwich,Fast Food,2,110,2026-05-08,17,Card,220,Friday,May,Afternoon
+806,C107,Noodles,Chinese,3,150,2026-01-26,10,Cash,450,Monday,January,Morning
+807,C101,Burger,Fast Food,1,120,2026-04-13,14,Cash,120,Monday,April,Afternoon
+808,C103,Burger,Fast Food,3,120,2026-06-20,18,Card,360,Saturday,June,Evening
+809,C106,Noodles,Chinese,1,150,2026-06-09,19,UPI,150,Tuesday,June,Evening
+810,C109,Manchurian,Chinese,1,160,2026-02-25,10,Cash,160,Wednesday,February,Morning
+811,C109,Coffee,Beverage,2,80,2026-04-18,12,Card,160,Saturday,April,Morning
+812,C103,Biryani,Indian,1,220,2026-05-27,11,Card,220,Wednesday,May,Morning
+813,C103,Noodles,Chinese,2,150,2026-06-23,18,Cash,300,Tuesday,June,Evening
+814,C109,Manchurian,Chinese,3,160,2026-01-22,15,Card,480,Thursday,January,Afternoon
+815,C102,Paneer Tikka,Indian,1,210,2026-04-26,18,Cash,210,Sunday,April,Evening
+816,C110,French Fries,Fast Food,1,90,2026-03-20,13,UPI,90,Friday,March,Afternoon
+817,C108,Biryani,Indian,2,220,2026-03-24,12,Card,440,Tuesday,March,Morning
+818,C104,Sandwich,Fast Food,3,110,2026-03-03,13,Card,330,Tuesday,March,Afternoon
+819,C102,Cold Drink,Beverage,2,60,2026-04-17,20,Cash,120,Friday,April,Evening
+820,C102,Burger,Fast Food,3,120,2026-05-17,21,UPI,360,Sunday,May,Evening
+821,C110,Manchurian,Chinese,1,160,2026-02-17,18,Cash,160,Tuesday,February,Evening
+822,C107,Noodles,Chinese,2,150,2026-04-22,22,Cash,300,Wednesday,April,Night
+823,C107,Pasta,Italian,3,180,2026-04-09,14,UPI,540,Thursday,April,Afternoon
+824,C101,Paneer Tikka,Indian,2,210,2026-05-14,22,Card,420,Thursday,May,Night
+825,C105,Biryani,Indian,2,220,2026-01-21,19,UPI,440,Wednesday,January,Evening
+826,C106,French Fries,Fast Food,2,90,2026-03-03,19,Card,180,Tuesday,March,Evening
+827,C102,Coffee,Beverage,3,80,2026-02-09,22,Cash,240,Monday,February,Night
+828,C101,Paneer Tikka,Indian,3,210,2026-05-18,21,Cash,630,Monday,May,Evening
+829,C110,Pizza,Fast Food,3,250,2026-06-27,21,Card,750,Saturday,June,Evening
+830,C106,Pizza,Fast Food,2,250,2026-03-03,10,UPI,500,Tuesday,March,Morning
+831,C101,Biryani,Indian,2,220,2026-06-15,12,Cash,440,Monday,June,Morning
+832,C104,Paneer Tikka,Indian,2,210,2026-05-29,19,Card,420,Friday,May,Evening
+833,C104,French Fries,Fast Food,1,90,2026-03-15,16,Card,90,Sunday,March,Afternoon
+834,C105,Sandwich,Fast Food,2,110,2026-03-11,17,UPI,220,Wednesday,March,Afternoon
+835,C106,Paneer Tikka,Indian,1,210,2026-05-16,10,Cash,210,Saturday,May,Morning
+836,C105,Noodles,Chinese,3,150,2026-04-06,12,Cash,450,Monday,April,Morning
+837,C108,Pizza,Fast Food,1,250,2026-06-25,15,Cash,250,Thursday,June,Afternoon
+838,C106,Ice Cream,Dessert,1,100,2026-06-06,16,Cash,100,Saturday,June,Afternoon
+839,C106,Pizza,Fast Food,1,250,2026-01-08,20,UPI,250,Thursday,January,Evening
+840,C110,French Fries,Fast Food,3,90,2026-06-25,20,Card,270,Thursday,June,Evening
+841,C101,Ice Cream,Dessert,1,100,2026-06-12,22,Card,100,Friday,June,Night
+842,C105,Pasta,Italian,2,180,2026-05-29,12,Card,360,Friday,May,Morning
+843,C101,French Fries,Fast Food,2,90,2026-06-15,17,Card,180,Monday,June,Afternoon
+844,C105,Ice Cream,Dessert,1,100,2026-04-09,12,UPI,100,Thursday,April,Morning
+845,C103,Cold Drink,Beverage,1,60,2026-03-24,18,Card,60,Tuesday,March,Evening
+846,C109,Pizza,Fast Food,3,250,2026-03-15,22,Card,750,Sunday,March,Night
+847,C102,Sandwich,Fast Food,2,110,2026-06-01,20,Card,220,Monday,June,Evening
+848,C105,Paneer Tikka,Indian,3,210,2026-02-28,14,Cash,630,Saturday,February,Afternoon
+849,C109,Pasta,Italian,2,180,2026-04-23,19,Cash,360,Thursday,April,Evening
+850,C102,Ice Cream,Dessert,1,100,2026-02-01,20,Card,100,Sunday,February,Evening
+851,C105,Sandwich,Fast Food,3,110,2026-04-30,16,UPI,330,Thursday,April,Afternoon
+852,C109,Sandwich,Fast Food,3,110,2026-06-18,20,UPI,330,Thursday,June,Evening
+853,C107,French Fries,Fast Food,1,90,2026-05-30,12,UPI,90,Saturday,May,Morning
+854,C101,Manchurian,Chinese,2,160,2026-05-30,15,UPI,320,Saturday,May,Afternoon
+855,C107,Pizza,Fast Food,1,250,2026-05-28,11,Card,250,Thursday,May,Morning
+856,C104,Ice Cream,Dessert,2,100,2026-01-12,17,Cash,200,Monday,January,Afternoon
+857,C102,French Fries,Fast Food,2,90,2026-05-11,21,UPI,180,Monday,May,Evening
+858,C110,Burger,Fast Food,2,120,2026-03-07,13,Card,240,Saturday,March,Afternoon
+859,C106,Manchurian,Chinese,3,160,2026-04-18,17,UPI,480,Saturday,April,Afternoon
+860,C107,Manchurian,Chinese,3,160,2026-06-07,10,UPI,480,Sunday,June,Morning
+861,C107,Ice Cream,Dessert,1,100,2026-06-25,20,Card,100,Thursday,June,Evening
+862,C110,Coffee,Beverage,1,80,2026-06-12,12,UPI,80,Friday,June,Morning
+863,C105,Sandwich,Fast Food,3,110,2026-02-26,17,Cash,330,Thursday,February,Afternoon
+864,C107,Pasta,Italian,1,180,2026-05-04,16,UPI,180,Monday,May,Afternoon
+865,C103,Burger,Fast Food,2,120,2026-03-05,19,Cash,240,Thursday,March,Evening
+866,C110,Ice Cream,Dessert,3,100,2026-04-08,11,Cash,300,Wednesday,April,Morning
+867,C108,Ice Cream,Dessert,2,100,2026-01-20,11,Cash,200,Tuesday,January,Morning
+868,C105,Pasta,Italian,3,180,2026-01-15,14,Cash,540,Thursday,January,Afternoon
+869,C108,Coffee,Beverage,3,80,2026-02-09,17,Card,240,Monday,February,Afternoon
+870,C107,Manchurian,Chinese,2,160,2026-04-03,17,UPI,320,Friday,April,Afternoon
+871,C110,Pasta,Italian,1,180,2026-05-05,22,Cash,180,Tuesday,May,Night
+872,C108,Pasta,Italian,3,180,2026-03-23,15,Card,540,Monday,March,Afternoon
+873,C107,Manchurian,Chinese,3,160,2026-01-22,11,Card,480,Thursday,January,Morning
+874,C110,Paneer Tikka,Indian,2,210,2026-02-15,14,Cash,420,Sunday,February,Afternoon
+875,C107,Manchurian,Chinese,2,160,2026-04-09,21,UPI,320,Thursday,April,Evening
+876,C105,Burger,Fast Food,2,120,2026-02-26,16,Cash,240,Thursday,February,Afternoon
+877,C102,Coffee,Beverage,1,80,2026-01-22,22,Card,80,Thursday,January,Night
+878,C110,Paneer Tikka,Indian,3,210,2026-06-17,10,Card,630,Wednesday,June,Morning
+879,C109,Sandwich,Fast Food,1,110,2026-06-16,22,Cash,110,Tuesday,June,Night
+880,C106,Ice Cream,Dessert,1,100,2026-03-23,22,Card,100,Monday,March,Night
+881,C102,Paneer Tikka,Indian,3,210,2026-03-12,18,Card,630,Thursday,March,Evening
+882,C101,Sandwich,Fast Food,1,110,2026-03-30,17,UPI,110,Monday,March,Afternoon
+883,C109,Noodles,Chinese,1,150,2026-05-14,12,Cash,150,Thursday,May,Morning
+884,C108,French Fries,Fast Food,3,90,2026-05-12,21,UPI,270,Tuesday,May,Evening
+885,C103,Ice Cream,Dessert,1,100,2026-06-15,17,Card,100,Monday,June,Afternoon
+886,C108,French Fries,Fast Food,2,90,2026-05-30,22,Card,180,Saturday,May,Night
+887,C103,Manchurian,Chinese,2,160,2026-03-03,18,Cash,320,Tuesday,March,Evening
+888,C105,Biryani,Indian,3,220,2026-03-17,10,Cash,660,Tuesday,March,Morning
+889,C105,Pasta,Italian,3,180,2026-03-30,18,Cash,540,Monday,March,Evening
+890,C110,Pasta,Italian,1,180,2026-05-07,15,Cash,180,Thursday,May,Afternoon
+891,C101,Burger,Fast Food,1,120,2026-01-20,13,Cash,120,Tuesday,January,Afternoon
+892,C108,Pasta,Italian,1,180,2026-05-09,22,Cash,180,Saturday,May,Night
+893,C108,Manchurian,Chinese,2,160,2026-04-19,16,Card,320,Sunday,April,Afternoon
+894,C107,Cold Drink,Beverage,1,60,2026-04-21,20,UPI,60,Tuesday,April,Evening
+895,C107,Burger,Fast Food,1,120,2026-06-05,18,Cash,120,Friday,June,Evening
+896,C102,French Fries,Fast Food,1,90,2026-05-25,16,UPI,90,Monday,May,Afternoon
+897,C105,Pizza,Fast Food,1,250,2026-01-13,20,Card,250,Tuesday,January,Evening
+898,C109,Burger,Fast Food,3,120,2026-06-17,12,Cash,360,Wednesday,June,Morning
+899,C101,Paneer Tikka,Indian,2,210,2026-02-22,16,UPI,420,Sunday,February,Afternoon
+900,C101,Pasta,Italian,3,180,2026-05-17,15,Card,540,Sunday,May,Afternoon
+901,C101,Ice Cream,Dessert,3,100,2026-04-08,18,UPI,300,Wednesday,April,Evening
+902,C101,Coffee,Beverage,3,80,2026-05-16,17,Card,240,Saturday,May,Afternoon
+903,C107,Manchurian,Chinese,3,160,2026-02-11,12,Card,480,Wednesday,February,Morning
+904,C105,Burger,Fast Food,1,120,2026-06-09,19,UPI,120,Tuesday,June,Evening
+905,C106,Manchurian,Chinese,2,160,2026-05-31,17,Cash,320,Sunday,May,Afternoon
+906,C106,French Fries,Fast Food,3,90,2026-06-14,22,UPI,270,Sunday,June,Night
+907,C105,Burger,Fast Food,1,120,2026-04-25,20,Card,120,Saturday,April,Evening
+908,C107,Pizza,Fast Food,3,250,2026-03-04,17,Card,750,Wednesday,March,Afternoon
+909,C102,Burger,Fast Food,2,120,2026-01-06,12,Cash,240,Tuesday,January,Morning
+910,C110,Sandwich,Fast Food,2,110,2026-02-06,12,UPI,220,Friday,February,Morning
+911,C104,Ice Cream,Dessert,1,100,2026-06-13,19,Cash,100,Saturday,June,Evening
+912,C103,Burger,Fast Food,3,120,2026-04-15,13,Cash,360,Wednesday,April,Afternoon
+913,C101,Paneer Tikka,Indian,3,210,2026-04-09,17,Cash,630,Thursday,April,Afternoon
+914,C108,Pizza,Fast Food,1,250,2026-02-17,17,Cash,250,Tuesday,February,Afternoon
+915,C109,Pasta,Italian,3,180,2026-06-15,21,Card,540,Monday,June,Evening
+916,C109,Manchurian,Chinese,3,160,2026-03-17,17,Card,480,Tuesday,March,Afternoon
+917,C106,Pizza,Fast Food,2,250,2026-03-08,19,Cash,500,Sunday,March,Evening
+918,C103,Coffee,Beverage,2,80,2026-01-26,13,Card,160,Monday,January,Afternoon
+919,C101,Manchurian,Chinese,2,160,2026-01-05,12,Card,320,Monday,January,Morning
+920,C102,Biryani,Indian,2,220,2026-04-15,14,Card,440,Wednesday,April,Afternoon
+921,C104,Pizza,Fast Food,3,250,2026-03-25,21,Card,750,Wednesday,March,Evening
+922,C109,Sandwich,Fast Food,2,110,2026-04-22,10,Cash,220,Wednesday,April,Morning
+923,C104,Biryani,Indian,1,220,2026-05-02,14,UPI,220,Saturday,May,Afternoon
+924,C110,Pasta,Italian,1,180,2026-04-26,15,Cash,180,Sunday,April,Afternoon
+925,C108,Pasta,Italian,1,180,2026-02-15,18,UPI,180,Sunday,February,Evening
+926,C107,Cold Drink,Beverage,1,60,2026-05-13,15,Card,60,Wednesday,May,Afternoon
+927,C106,Pizza,Fast Food,3,250,2026-05-29,21,Card,750,Friday,May,Evening
+928,C109,Biryani,Indian,2,220,2026-02-09,11,UPI,440,Monday,February,Morning
+929,C105,Manchurian,Chinese,2,160,2026-03-02,14,Card,320,Monday,March,Afternoon
+930,C106,Noodles,Chinese,1,150,2026-02-25,20,UPI,150,Wednesday,February,Evening
+931,C101,Noodles,Chinese,2,150,2026-03-14,20,Card,300,Saturday,March,Evening
+932,C110,Ice Cream,Dessert,3,100,2026-04-18,21,UPI,300,Saturday,April,Evening
+933,C109,Ice Cream,Dessert,2,100,2026-05-05,15,Card,200,Tuesday,May,Afternoon
+934,C104,Cold Drink,Beverage,3,60,2026-06-11,16,UPI,180,Thursday,June,Afternoon
+935,C108,Paneer Tikka,Indian,2,210,2026-05-09,16,UPI,420,Saturday,May,Afternoon
+936,C110,Burger,Fast Food,3,120,2026-03-06,18,Cash,360,Friday,March,Evening
+937,C106,Cold Drink,Beverage,2,60,2026-05-29,10,Card,120,Friday,May,Morning
+938,C106,Manchurian,Chinese,1,160,2026-06-24,10,Cash,160,Wednesday,June,Morning
+939,C106,Burger,Fast Food,2,120,2026-06-15,10,Card,240,Monday,June,Morning
+940,C101,Manchurian,Chinese,1,160,2026-05-23,15,Card,160,Saturday,May,Afternoon
+941,C105,Noodles,Chinese,2,150,2026-06-12,21,Cash,300,Friday,June,Evening
+942,C102,Cold Drink,Beverage,1,60,2026-02-18,16,Cash,60,Wednesday,February,Afternoon
+943,C102,Noodles,Chinese,2,150,2026-01-20,15,Cash,300,Tuesday,January,Afternoon
+944,C107,Pasta,Italian,2,180,2026-01-17,18,Card,360,Saturday,January,Evening
+945,C103,Biryani,Indian,3,220,2026-03-04,20,UPI,660,Wednesday,March,Evening
+946,C110,Biryani,Indian,3,220,2026-05-27,13,UPI,660,Wednesday,May,Afternoon
+947,C101,Burger,Fast Food,2,120,2026-03-12,20,Card,240,Thursday,March,Evening
+948,C105,Pasta,Italian,2,180,2026-05-21,15,Card,360,Thursday,May,Afternoon
+949,C104,Pasta,Italian,2,180,2026-02-09,20,UPI,360,Monday,February,Evening
+950,C103,Cold Drink,Beverage,2,60,2026-01-28,22,Cash,120,Wednesday,January,Night
+951,C109,Manchurian,Chinese,3,160,2026-01-24,20,Card,480,Saturday,January,Evening
+952,C107,Pizza,Fast Food,3,250,2026-01-08,16,Cash,750,Thursday,January,Afternoon
+953,C102,Coffee,Beverage,2,80,2026-01-30,19,Cash,160,Friday,January,Evening
+954,C102,Noodles,Chinese,3,150,2026-04-27,22,Card,450,Monday,April,Night
+955,C104,Sandwich,Fast Food,2,110,2026-04-04,15,UPI,220,Saturday,April,Afternoon
+956,C108,Sandwich,Fast Food,2,110,2026-01-06,19,Cash,220,Tuesday,January,Evening
+957,C103,Coffee,Beverage,3,80,2026-01-06,17,Cash,240,Tuesday,January,Afternoon
+958,C104,Ice Cream,Dessert,3,100,2026-02-12,10,UPI,300,Thursday,February,Morning
+959,C103,Coffee,Beverage,2,80,2026-05-13,15,Cash,160,Wednesday,May,Afternoon
+960,C110,Burger,Fast Food,3,120,2026-05-30,16,Card,360,Saturday,May,Afternoon
+961,C101,Coffee,Beverage,3,80,2026-03-01,21,Cash,240,Sunday,March,Evening
+962,C103,Burger,Fast Food,2,120,2026-03-14,16,UPI,240,Saturday,March,Afternoon
+963,C109,Noodles,Chinese,3,150,2026-02-16,13,Cash,450,Monday,February,Afternoon
+964,C110,Manchurian,Chinese,2,160,2026-04-22,18,UPI,320,Wednesday,April,Evening
+965,C109,Cold Drink,Beverage,3,60,2026-04-04,16,UPI,180,Saturday,April,Afternoon
+966,C103,Biryani,Indian,2,220,2026-04-26,11,Card,440,Sunday,April,Morning
+967,C107,Ice Cream,Dessert,2,100,2026-03-26,14,Card,200,Thursday,March,Afternoon
+968,C110,Burger,Fast Food,1,120,2026-05-06,11,Cash,120,Wednesday,May,Morning
+969,C102,French Fries,Fast Food,3,90,2026-03-16,10,Card,270,Monday,March,Morning
+970,C110,Noodles,Chinese,1,150,2026-03-31,15,UPI,150,Tuesday,March,Afternoon
+971,C108,Pasta,Italian,3,180,2026-05-10,19,Card,540,Sunday,May,Evening
+972,C101,Sandwich,Fast Food,1,110,2026-06-23,17,Card,110,Tuesday,June,Afternoon
+973,C108,Burger,Fast Food,1,120,2026-04-30,13,UPI,120,Thursday,April,Afternoon
+974,C105,Cold Drink,Beverage,2,60,2026-02-05,21,Cash,120,Thursday,February,Evening
+975,C104,Sandwich,Fast Food,3,110,2026-05-24,19,UPI,330,Sunday,May,Evening
+976,C104,Noodles,Chinese,3,150,2026-01-29,12,Card,450,Thursday,January,Morning
+977,C105,Pasta,Italian,2,180,2026-01-19,22,UPI,360,Monday,January,Night
+978,C104,Ice Cream,Dessert,1,100,2026-02-24,13,UPI,100,Tuesday,February,Afternoon
+979,C106,French Fries,Fast Food,2,90,2026-03-04,13,Cash,180,Wednesday,March,Afternoon
+980,C107,Noodles,Chinese,3,150,2026-04-10,22,Cash,450,Friday,April,Night
+981,C104,Ice Cream,Dessert,1,100,2026-03-03,15,Cash,100,Tuesday,March,Afternoon
+982,C107,Pasta,Italian,1,180,2026-06-29,13,Card,180,Monday,June,Afternoon
+983,C109,Biryani,Indian,3,220,2026-02-07,15,UPI,660,Saturday,February,Afternoon
+984,C104,Pasta,Italian,1,180,2026-02-19,11,Card,180,Thursday,February,Morning
+985,C104,Ice Cream,Dessert,2,100,2026-06-14,15,UPI,200,Sunday,June,Afternoon
+986,C109,Paneer Tikka,Indian,2,210,2026-02-03,22,Cash,420,Tuesday,February,Night
+987,C103,Sandwich,Fast Food,2,110,2026-03-09,12,UPI,220,Monday,March,Morning
+988,C105,Noodles,Chinese,3,150,2026-06-08,12,Cash,450,Monday,June,Morning
+989,C102,Ice Cream,Dessert,2,100,2026-04-26,19,UPI,200,Sunday,April,Evening
+990,C107,Sandwich,Fast Food,1,110,2026-06-08,20,UPI,110,Monday,June,Evening
+991,C102,Pasta,Italian,3,180,2026-03-12,19,Card,540,Thursday,March,Evening
+992,C105,Burger,Fast Food,3,120,2026-04-02,10,Cash,360,Thursday,April,Morning
+993,C110,Sandwich,Fast Food,3,110,2026-05-10,19,Card,330,Sunday,May,Evening
+994,C103,Manchurian,Chinese,3,160,2026-02-19,20,Card,480,Thursday,February,Evening
+995,C102,Cold Drink,Beverage,2,60,2026-01-27,10,UPI,120,Tuesday,January,Morning
+996,C104,Pizza,Fast Food,2,250,2026-03-01,15,Cash,500,Sunday,March,Afternoon
+997,C110,Paneer Tikka,Indian,2,210,2026-01-25,22,UPI,420,Sunday,January,Night
+998,C105,Manchurian,Chinese,2,160,2026-04-15,15,Cash,320,Wednesday,April,Afternoon
+999,C102,French Fries,Fast Food,1,90,2026-04-17,20,Cash,90,Friday,April,Evening
+1000,C110,Coffee,Beverage,1,80,2026-03-07,21,UPI,80,Saturday,March,Evening

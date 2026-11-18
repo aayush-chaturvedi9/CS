@@ -1,0 +1,10 @@
+{
+  "best_classifier": "Gradient Boosting",
+  "best_regressor": "Linear Regression",
+  "grid_search_best_params": {
+    "model__max_depth": null,
+    "model__min_samples_leaf": 2,
+    "model__n_estimators": 220
+  },
+  "warning": "Synthetic educational dataset only."
+}
